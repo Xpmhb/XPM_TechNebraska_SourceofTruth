@@ -58,9 +58,9 @@ XPM_TechNebraska_SourceofTruth/
     ├── social_proof/                      # 19 authentic past campaign flyers & speaker quotes
     ├── generated_suite/                   # 6 production marketing graphics (1:1, 16:9, 4:5, 9:16)
     └── interactive/                       # Standalone offline HTML applications
-        ├── tech_nebraska_brand_moodboard.html
-        ├── tech_nebraska_sb7_journey_visualizer.html
-        └── tech_nebraska_graphics_suite_viewer.html
+        ├── tech_nebraska_brand_moodboard.html        # Living Strategy, Growth Engine & Brand Intelligence OS (Interactive)
+        ├── tech_nebraska_sb7_journey_visualizer.html # Interactive SB7 3-Hero Archetype Journey Visualizer
+        └── tech_nebraska_graphics_suite_viewer.html  # Production Graphics Suite Viewer & Export Console
 ```
 
 ---
