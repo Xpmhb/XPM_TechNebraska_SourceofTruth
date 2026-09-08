@@ -1,12 +1,15 @@
 """
-Design QA & Typography Linter Engine
-====================================
+Design QA & Typography Linter Engine (Version 2.0 - Strict Agency Standards)
+============================================================================
 Programmatically validates social media graphics against strict design standards:
 1. Minimum font size enforcement (Hard reject < 28px on 1080px/1200px canvases)
 2. Mathematical centering checks (abs(center_x - canvas_center_x) <= 2px)
-3. Container padding enforcement (min 60px padding)
+3. Container padding enforcement (min 50px padding)
 4. Vertical rhythm and gap consistency (20px <= gap <= 120px)
 5. Authentic brand asset validation (no text-reconstructed logos)
+6. Anti-Clutter & Element Count Rule (max 4 elements per container card to prevent cramming)
+7. Color Cohesion Rule (max 2 accent colors per card to prevent circus palette)
+8. Template Fidelity Rule (validates alignment with proven agency archetypes)
 """
 
 import os
@@ -149,6 +152,37 @@ class DesignQALinter:
         self.checks_passed += 1
         return True
 
+    def check_element_density(self, graphic_id: str, container_name: str, element_count: int, max_elements: int = 4) -> bool:
+        """Flags clutter overload if a single container card has too many stacked elements."""
+        self.checks_total += 1
+        if element_count > max_elements:
+            self.violations.append({
+                "graphic_id": graphic_id,
+                "rule": "CLUTTER_DENSITY_OVERLOAD",
+                "severity": "CRITICAL",
+                "element": container_name,
+                "details": f"Container contains {element_count} elements (max {max_elements}). Excessive visual density causes mobile feed fatigue and cramped composition."
+            })
+            return False
+        self.checks_passed += 1
+        return True
+
+    def check_color_cohesion(self, graphic_id: str, container_name: str, accent_colors: List[str], max_accents: int = 2) -> bool:
+        """Enforces 2-color brand discipline in single cards to prevent 'circus palette' slop."""
+        self.checks_total += 1
+        unique_accents = set(accent_colors)
+        if len(unique_accents) > max_accents:
+            self.violations.append({
+                "graphic_id": graphic_id,
+                "rule": "COLOR_PALETTE_CLASH",
+                "severity": "HIGH",
+                "element": container_name,
+                "details": f"Container uses {len(unique_accents)} distinct accent colors ({', '.join(unique_accents)}). Max {max_accents} allowed for professional brand cohesion."
+            })
+            return False
+        self.checks_passed += 1
+        return True
+
     def get_summary(self) -> str:
         out = []
         out.append("=" * 80)
@@ -156,7 +190,7 @@ class DesignQALinter:
         out.append("=" * 80)
         if not self.violations:
             out.append("STATUS: 100% CLEAN - ZERO DESIGN OR TYPOGRAPHY DEFECTS DETECTED.")
-            out.append("All font sizes >= 28px, all centered elements aligned, padding & margins compliant.")
+            out.append("All font sizes >= 28px, all centered elements aligned, padding & density compliant.")
         else:
             out.append(f"STATUS: FAILED - {len(self.violations)} VIOLATIONS DETECTED:")
             for i, v in enumerate(self.violations, 1):

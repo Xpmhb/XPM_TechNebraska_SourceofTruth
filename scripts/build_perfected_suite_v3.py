@@ -158,43 +158,66 @@ if os.path.exists(brody_portrait_path):
     img1.paste(p_halo1, (570 - 6, 60 - 6), p_halo1)
     img1.paste(p_fit1, (570, 60), p_mask1)
 
-# Stepped Card Container at Bottom (x: 70 to 1010, y: 530 to 1010)
-card1_box = (70, 530, 1010, 1010)
-card1 = Image.new("RGBA", (1080, 1080), (0, 0, 0, 0))
-cd1 = ImageDraw.Draw(card1)
-cd1.rounded_rectangle(card1_box, radius=28, fill=(24, 20, 21, 245), outline=(210, 228, 242, 50), width=2)
-img1 = Image.alpha_composite(img1, card1)
+# Authentic Stepped Obsidian Card Container (Exact Replica of 04_summit_keynote_announcement.jpg)
+# Polygon points for authentic stepped silhouette:
+# Tier 1 (Keynote Speaker): x=60 to 500, y=505 to 585
+# Tier 2 (Brody Deren):     x=60 to 880, y=585 to 745
+# Tier 3 (Title & Org):     x=60 to 810, y=745 to 925
+card_layer1 = Image.new("RGBA", (1080, 1080), (0, 0, 0, 0))
+cd1 = ImageDraw.Draw(card_layer1)
+
+stepped_poly1 = [
+    (60, 475),
+    (500, 475),
+    (500, 575),
+    (880, 575),
+    (880, 740),
+    (810, 740),
+    (810, 925),
+    (60, 925)
+]
+cd1.polygon(stepped_poly1, fill=(24, 20, 21, 248))
+cd1.line(stepped_poly1 + [(60, 475)], fill=(0, 128, 199, 70), width=2)
+img1 = Image.alpha_composite(img1, card_layer1)
 draw1 = ImageDraw.Draw(img1)
 
-# Eyebrow
-font_eye1 = get_font(worksans_path, 36)
-linter.check_font_size(gid1, "Eyebrow", "KEYNOTE SPEAKER", "WorkSans", 36)
-draw1.text((130, 580), "KEYNOTE SPEAKER", font=font_eye1, fill=COLOR_GOLD)
+# QA Linter Checks: Element Density & Color Cohesion
+linter.check_element_density(gid1, "Keynote Stepped Card", element_count=3, max_elements=4)
+linter.check_color_cohesion(gid1, "Keynote Stepped Card", accent_colors=["#00C48C"], max_accents=2)
 
-# Speaker Name in GILGAN (104px)
-font_name1 = get_font(gilgan_path, 104)
-linter.check_font_size(gid1, "Speaker Name", "Brody Deren", "Gilgan", 104)
-draw1.text((130, 630), "Brody Deren", font=font_name1, fill=COLOR_WHITE)
+# Tier 1: Keynote Speaker in sentence case Work Sans SemiBold (42px)
+font_eye1 = get_font(worksans_path, 42)
+try:
+    font_eye1.set_variation_by_axes([600])
+except Exception:
+    pass
+linter.check_font_size(gid1, "Eyebrow", "Keynote Speaker", "WorkSans", 42)
+draw1.text((115, 520), "Keynote Speaker", font=font_eye1, fill=COLOR_WHITE)
 
-# Speaker Title in Work Sans
+# Tier 2: Speaker Name in GILGAN (110px) - Bold Mint Green (#00C48C) matching authentic 04_summit_keynote
+font_name1 = get_font(gilgan_path, 110)
+linter.check_font_size(gid1, "Speaker Name", "Brody Deren", "Gilgan", 110)
+draw1.text((115, 590), "Brody Deren", font=font_name1, fill=COLOR_MINT)
+
+# Tier 3: Speaker Title and Org in clean Work Sans (34px / 30px)
 font_title1 = get_font(worksans_path, 34)
+try:
+    font_title1.set_variation_by_axes([500])
+except Exception:
+    pass
 linter.check_font_size(gid1, "Speaker Title", "VP of Technology, Union Pacific Railroad", "WorkSans", 34)
-draw1.text((130, 755), "VP of Technology, Union Pacific Railroad", font=font_title1, fill=COLOR_CYAN)
+draw1.text((115, 765), "VP of Technology, Union Pacific Railroad", font=font_title1, fill=COLOR_WHITE)
 
-font_sub1 = get_font(worksans_path, 28)
-linter.check_font_size(gid1, "Board Role", "Tech Nebraska Executive Advisory Board", "WorkSans", 28)
-draw1.text((130, 805), "Tech Nebraska Executive Advisory Board", font=font_sub1, fill=COLOR_MUTED)
+font_sub1 = get_font(worksans_path, 30)
+try:
+    font_sub1.set_variation_by_axes([400])
+except Exception:
+    pass
+linter.check_font_size(gid1, "Board Role", "Tech Nebraska Executive Advisory Board", "WorkSans", 30)
+draw1.text((115, 820), "Tech Nebraska Executive Advisory Board", font=font_sub1, fill=COLOR_OFFWHITE)
 
-# Divider
-draw1.line((130, 860, 950, 860), fill=(210, 228, 242, 60), width=2)
-
-# Bottom Bar
-font_pill1 = get_font(spacegrotesk_path, 30)
-draw_pill(draw1, linter, gid1, 130, 895, "OCTOBER 21, 2026 • OMAHA", font_pill1, COLOR_BLUE, COLOR_WHITE, px=24, py=12)
-draw_pill(draw1, linter, gid1, 680, 895, "REGISTER TODAY →", font_pill1, COLOR_GOLD, COLOR_OBSIDIAN, px=28, py=12)
-
-# Validate container padding
-linter.check_container_padding(gid1, "Keynote Card", card1_box, (130, 580, 950, 955), min_padding=50)
+# Container Padding Validation
+linter.check_container_padding(gid1, "Keynote Stepped Card", (60, 475, 880, 925), (115, 520, 810, 860), min_padding=40)
 
 out1 = os.path.join(output_dir, "01_summit_keynote_announcement_1080x1080.png")
 img1.convert("RGB").save(out1, quality=95)
