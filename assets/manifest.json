@@ -1,6 +1,6 @@
 {
   "organization": "Tech Nebraska",
-  "total_assets": 63,
+  "total_assets": 66,
   "generated_date": "2026-09-08",
   "assets": [
     {
@@ -39,41 +39,6 @@
       "tier": "Tier 2"
     },
     {
-      "filename": "TechNebraska_Backgrounds01.pdf",
-      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds01.pdf",
-      "size_bytes": 193539330,
-      "extension": ".pdf",
-      "tier": "Tier 2"
-    },
-    {
-      "filename": "TechNebraska_Backgrounds02.pdf",
-      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds02.pdf",
-      "size_bytes": 234330186,
-      "extension": ".pdf",
-      "tier": "Tier 2"
-    },
-    {
-      "filename": "TechNebraska_Backgrounds03.pdf",
-      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds03.pdf",
-      "size_bytes": 200117103,
-      "extension": ".pdf",
-      "tier": "Tier 2"
-    },
-    {
-      "filename": "TechNebraska_Backgrounds04.pdf",
-      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds04.pdf",
-      "size_bytes": 203960888,
-      "extension": ".pdf",
-      "tier": "Tier 2"
-    },
-    {
-      "filename": "TechNebraska_Backgrounds05.pdf",
-      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds05.pdf",
-      "size_bytes": 249876862,
-      "extension": ".pdf",
-      "tier": "Tier 2"
-    },
-    {
       "filename": "TechNebraska_Backgrounds01_p1.png",
       "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds01_p1.png",
       "size_bytes": 3105108,
@@ -105,6 +70,62 @@
       "filename": "TechNebraska_Backgrounds05_p1.png",
       "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds05_p1.png",
       "size_bytes": 4582433,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "SpaceGrotesk-Variable.ttf",
+      "relative_path": "assets\\fonts\\SpaceGrotesk-Variable.ttf",
+      "size_bytes": 136676,
+      "extension": ".ttf",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "WorkSans-Variable.ttf",
+      "relative_path": "assets\\fonts\\WorkSans-Variable.ttf",
+      "size_bytes": 361072,
+      "extension": ".ttf",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "01_summit_keynote_announcement_1080x1080.png",
+      "relative_path": "assets\\generated_suite\\01_summit_keynote_announcement_1080x1080.png",
+      "size_bytes": 220304,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "02_linkedin_header_banner_1200x628.png",
+      "relative_path": "assets\\generated_suite\\02_linkedin_header_banner_1200x628.png",
+      "size_bytes": 207805,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "03_executive_advisory_quote_1080x1080.png",
+      "relative_path": "assets\\generated_suite\\03_executive_advisory_quote_1080x1080.png",
+      "size_bytes": 208689,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "04_policy_alert_bia_15m_1080x1080.png",
+      "relative_path": "assets\\generated_suite\\04_policy_alert_bia_15m_1080x1080.png",
+      "size_bytes": 233006,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "05_summit_save_the_date_1080x1350.png",
+      "relative_path": "assets\\generated_suite\\05_summit_save_the_date_1080x1350.png",
+      "size_bytes": 323220,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "06_story_vertical_reel_1080x1920.png",
+      "relative_path": "assets\\generated_suite\\06_story_vertical_reel_1080x1920.png",
+      "size_bytes": 225272,
       "extension": ".png",
       "tier": "Tier 2"
     },
