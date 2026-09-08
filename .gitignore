@@ -19,3 +19,5 @@ Thumbs.db
 Desktop.ini
 .vscode/
 .idea/
+output/
+tmp/
