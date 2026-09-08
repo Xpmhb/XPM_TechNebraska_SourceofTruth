@@ -42,6 +42,7 @@ XPM_TechNebraska_SourceofTruth/
 │   ├── social_media_and_campaign_audit.md # ClickUp task 86bbv9ha8 (LinkedIn, FB, 74-post Instagram forensic crawl)
 │   ├── competitive_intelligence_benchmark.md # ClickUp task 86bbva8yv (TAI, TechPoint, AIM, Bio NE, YouTube audit)
 │   ├── clickup_comprehensive_strategy_and_brief.md # ClickUp doc 8cfvj6d-37514 (Master Content Strategy, Ideas & Summit Retainer Brief)
+│   ├── six_month_content_strategy_core_document.md # Master 6-Month Content Strategy ($14,400 Core Engagement SOW & Editorial Architecture)
 │   └── xpm_source_of_truth_standard.md    # Agency SOP for setting up future client repos
 │
 └── assets/                                # Verified Brand Assets

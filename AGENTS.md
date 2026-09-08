@@ -104,4 +104,7 @@ Agents generating proposals, social copy, SEO fixes, or client presentations MUS
    - Synced from ClickUp Task `86bbva8yv`. Regional comparisons to TAI (13,092 followers) and TechPoint (17,716 followers), YouTube audit (13 long-form webinars, 0 Shorts), and the uncontested zero-paid-ad vacuum across Nebraska tech associations.
 5. **Content & Blog Corpus Audit:** [`docs/content_and_blog_audit.md`](./docs/content_and_blog_audit.md)  
    - Forensic taxonomy of all 22 live WordPress articles, 6 core content pillars, and 4-month editorial calendar.
+6. **Six-Month Content Strategy Core Document:** [`docs/six_month_content_strategy_core_document.md`](./docs/six_month_content_strategy_core_document.md)  
+   - Master commercial and editorial blueprint for the $14,400 engagement ($4,500 initial strategy/Summit engine + $1,650/mo × 6 months). Details the 5 recurring content jobs, weekly operating rhythm (4 slots), 14–16 social pieces/month (6–8 short-form videos), 6-month editorial tapering arc (Oct 22, 2026 – Apr 30, 2027), and 18–22 delivery hours/month guardrails.
+
 
