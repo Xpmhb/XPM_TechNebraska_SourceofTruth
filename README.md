@@ -36,10 +36,13 @@ XPM_TechNebraska_SourceofTruth/
 │   ├── brand_voice_and_tone.md            # Tone spectrum, voice rules, anti-slop dictionary
 │   ├── visual_identity.md                 # Design system specifications & 80/20 ratio rule
 │   ├── client_profile.md                  # Entity overview, Chamber alliance, Advisory Board
+│   ├── content_and_blog_audit.md          # Complete 22-post editorial analysis & content strategy
+│   ├── seo_and_aeo_intelligence_audit.md  # SE Ranking baseline audit, keywords & 4-month roadmap
 │   └── xpm_source_of_truth_standard.md    # Agency SOP for setting up future client repos
 │
 └── assets/                                # Verified Brand Assets
     ├── manifest.json                      # Machine-readable asset inventory with metadata
+    ├── fonts/                             # Official TTF variable fonts (Space Grotesk, Work Sans)
     ├── logos/
     │   ├── svg/                           # Master Bézier vector source of truth (4 marks, 5 icons)
     │   ├── png_web/                       # Transparent web PNGs (3200px wordmarks / 1900px icons)
@@ -47,11 +50,13 @@ XPM_TechNebraska_SourceofTruth/
     ├── backgrounds/
     │   ├── rendered_4k/                   # 8000x4500 PNG master grainy orb collisions
     │   ├── previews/                      # 1200x675 lightweight JPG previews
-    │   └── production_pdfs/               # Vector background PDF artwork
+    │   └── production_pdfs/               # Vector background PDF artwork (Tier 3 on disk)
     ├── social_proof/                      # 19 authentic past campaign flyers & speaker quotes
+    ├── generated_suite/                   # 6 production marketing graphics (1:1, 16:9, 4:5, 9:16)
     └── interactive/                       # Standalone offline HTML applications
         ├── tech_nebraska_brand_moodboard.html
-        └── tech_nebraska_sb7_journey_visualizer.html
+        ├── tech_nebraska_sb7_journey_visualizer.html
+        └── tech_nebraska_graphics_suite_viewer.html
 ```
 
 ---
