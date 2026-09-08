@@ -106,5 +106,8 @@ Agents generating proposals, social copy, SEO fixes, or client presentations MUS
    - Forensic taxonomy of all 22 live WordPress articles, 6 core content pillars, and 4-month editorial calendar.
 6. **Six-Month Content Strategy Core Document:** [`docs/six_month_content_strategy_core_document.md`](./docs/six_month_content_strategy_core_document.md)  
    - Master commercial and editorial blueprint for the $14,400 engagement ($4,500 initial strategy/Summit engine + $1,650/mo × 6 months). Details the 5 recurring content jobs, weekly operating rhythm (4 slots), 14–16 social pieces/month (6–8 short-form videos), 6-month editorial tapering arc (Oct 22, 2026 – Apr 30, 2027), and 18–22 delivery hours/month guardrails.
+7. **Summit Content Engine Final Scope of Work (SOW):** [`docs/tech_nebraska_summit_content_engine_sow_final.md`](./docs/tech_nebraska_summit_content_engine_sow_final.md)  
+   - Final client contract signed baseline (Sept 14, 2026 – Apr 30, 2027). Defines the 4 payment tranches (Sept $2,250, Oct $2,250, Nov–Apr $1,650/mo), the 2-person VIP mixer team, 3-person Summit crew, rapid 24–48h deliverables (Emily's thank-you video Oct 22, recap sizzle Oct 23/24), 5–8 amplification kits, and client-facing visual brief [`assets/interactive/tech_nebraska_executive_client_brief.html`](./assets/interactive/tech_nebraska_executive_client_brief.html).
+
 
 
