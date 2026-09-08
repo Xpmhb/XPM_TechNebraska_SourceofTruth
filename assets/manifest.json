@@ -1,0 +1,448 @@
+{
+  "organization": "Tech Nebraska",
+  "total_assets": 63,
+  "generated_date": "2026-09-08",
+  "assets": [
+    {
+      "filename": "TechNebraska_Backgrounds01_preview.jpg",
+      "relative_path": "assets\\backgrounds\\previews\\TechNebraska_Backgrounds01_preview.jpg",
+      "size_bytes": 22719,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds02_preview.jpg",
+      "relative_path": "assets\\backgrounds\\previews\\TechNebraska_Backgrounds02_preview.jpg",
+      "size_bytes": 26037,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds03_preview.jpg",
+      "relative_path": "assets\\backgrounds\\previews\\TechNebraska_Backgrounds03_preview.jpg",
+      "size_bytes": 24151,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds04_preview.jpg",
+      "relative_path": "assets\\backgrounds\\previews\\TechNebraska_Backgrounds04_preview.jpg",
+      "size_bytes": 28622,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds05_preview.jpg",
+      "relative_path": "assets\\backgrounds\\previews\\TechNebraska_Backgrounds05_preview.jpg",
+      "size_bytes": 27088,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds01.pdf",
+      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds01.pdf",
+      "size_bytes": 193539330,
+      "extension": ".pdf",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds02.pdf",
+      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds02.pdf",
+      "size_bytes": 234330186,
+      "extension": ".pdf",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds03.pdf",
+      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds03.pdf",
+      "size_bytes": 200117103,
+      "extension": ".pdf",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds04.pdf",
+      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds04.pdf",
+      "size_bytes": 203960888,
+      "extension": ".pdf",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds05.pdf",
+      "relative_path": "assets\\backgrounds\\production_pdfs\\TechNebraska_Backgrounds05.pdf",
+      "size_bytes": 249876862,
+      "extension": ".pdf",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds01_p1.png",
+      "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds01_p1.png",
+      "size_bytes": 3105108,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds02_p1.png",
+      "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds02_p1.png",
+      "size_bytes": 4452028,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds03_p1.png",
+      "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds03_p1.png",
+      "size_bytes": 3960433,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds04_p1.png",
+      "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds04_p1.png",
+      "size_bytes": 4515128,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "TechNebraska_Backgrounds05_p1.png",
+      "relative_path": "assets\\backgrounds\\rendered_4k\\TechNebraska_Backgrounds05_p1.png",
+      "size_bytes": 4582433,
+      "extension": ".png",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "tech_nebraska_brand_moodboard.html",
+      "relative_path": "assets\\interactive\\tech_nebraska_brand_moodboard.html",
+      "size_bytes": 4336954,
+      "extension": ".html",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "tech_nebraska_sb7_journey_visualizer.html",
+      "relative_path": "assets\\interactive\\tech_nebraska_sb7_journey_visualizer.html",
+      "size_bytes": 1017382,
+      "extension": ".html",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_black.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_brandmark_black.png",
+      "size_bytes": 487893,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_electric_blue.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_brandmark_electric_blue.png",
+      "size_bytes": 471106,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_full_color.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_brandmark_full_color.png",
+      "size_bytes": 589200,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_goldenrod.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_brandmark_goldenrod.png",
+      "size_bytes": 472905,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_white.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_brandmark_white.png",
+      "size_bytes": 415448,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_color_reversed.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_logo_color_reversed.png",
+      "size_bytes": 807560,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_monochrome_black.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_logo_monochrome_black.png",
+      "size_bytes": 691437,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_monochrome_white.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_logo_monochrome_white.png",
+      "size_bytes": 696650,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_primary_color.png",
+      "relative_path": "assets\\logos\\png_hires\\tech_nebraska_logo_primary_color.png",
+      "size_bytes": 800034,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_black.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_brandmark_black.png",
+      "size_bytes": 73997,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_electric_blue.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_brandmark_electric_blue.png",
+      "size_bytes": 69596,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_full_color.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_brandmark_full_color.png",
+      "size_bytes": 96887,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_goldenrod.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_brandmark_goldenrod.png",
+      "size_bytes": 70595,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_white.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_brandmark_white.png",
+      "size_bytes": 61693,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_color_reversed.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_logo_color_reversed.png",
+      "size_bytes": 136363,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_monochrome_black.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_logo_monochrome_black.png",
+      "size_bytes": 114789,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_monochrome_white.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_logo_monochrome_white.png",
+      "size_bytes": 117118,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_primary_color.png",
+      "relative_path": "assets\\logos\\png_web\\tech_nebraska_logo_primary_color.png",
+      "size_bytes": 135184,
+      "extension": ".png",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_black.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_brandmark_black.svg",
+      "size_bytes": 6170,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_electric_blue.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_brandmark_electric_blue.svg",
+      "size_bytes": 6170,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_full_color.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_brandmark_full_color.svg",
+      "size_bytes": 5968,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_goldenrod.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_brandmark_goldenrod.svg",
+      "size_bytes": 6170,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_brandmark_white.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_brandmark_white.svg",
+      "size_bytes": 6170,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_color_reversed.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_logo_color_reversed.svg",
+      "size_bytes": 19623,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_monochrome_black.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_logo_monochrome_black.svg",
+      "size_bytes": 15934,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_monochrome_white.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_logo_monochrome_white.svg",
+      "size_bytes": 15912,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "tech_nebraska_logo_primary_color.svg",
+      "relative_path": "assets\\logos\\svg\\tech_nebraska_logo_primary_color.svg",
+      "size_bytes": 19739,
+      "extension": ".svg",
+      "tier": "Tier 1"
+    },
+    {
+      "filename": "01_brand_launch_logo.jpg",
+      "relative_path": "assets\\social_proof\\01_brand_launch_logo.jpg",
+      "size_bytes": 55369,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "02_exec_dir_laurel.jpg",
+      "relative_path": "assets\\social_proof\\02_exec_dir_laurel.jpg",
+      "size_bytes": 176244,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "03_exec_dir_emily.jpg",
+      "relative_path": "assets\\social_proof\\03_exec_dir_emily.jpg",
+      "size_bytes": 93724,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "04_summit_keynote_announcement.jpg",
+      "relative_path": "assets\\social_proof\\04_summit_keynote_announcement.jpg",
+      "size_bytes": 263778,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "05_summit_tracks_agenda.jpg",
+      "relative_path": "assets\\social_proof\\05_summit_tracks_agenda.jpg",
+      "size_bytes": 28403,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "06_summit_cybersecurity_topic.jpg",
+      "relative_path": "assets\\social_proof\\06_summit_cybersecurity_topic.jpg",
+      "size_bytes": 190062,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "07_summit_sponsors_wall.jpg",
+      "relative_path": "assets\\social_proof\\07_summit_sponsors_wall.jpg",
+      "size_bytes": 115643,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "08_summit_sold_out_recap.jpg",
+      "relative_path": "assets\\social_proof\\08_summit_sold_out_recap.jpg",
+      "size_bytes": 168102,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "09_bia_policy_breaking_news.jpg",
+      "relative_path": "assets\\social_proof\\09_bia_policy_breaking_news.jpg",
+      "size_bytes": 129110,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "10_advisory_board_brody_quote.jpg",
+      "relative_path": "assets\\social_proof\\10_advisory_board_brody_quote.jpg",
+      "size_bytes": 162856,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "11_advisory_board_brody_photo.jpg",
+      "relative_path": "assets\\social_proof\\11_advisory_board_brody_photo.jpg",
+      "size_bytes": 212397,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "12_advisory_board_perry_quote.jpg",
+      "relative_path": "assets\\social_proof\\12_advisory_board_perry_quote.jpg",
+      "size_bytes": 86153,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "13_microsummit_norfolk_stage.jpg",
+      "relative_path": "assets\\social_proof\\13_microsummit_norfolk_stage.jpg",
+      "size_bytes": 89451,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "14_microsummit_norfolk_crowd.jpg",
+      "relative_path": "assets\\social_proof\\14_microsummit_norfolk_crowd.jpg",
+      "size_bytes": 249778,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "15_microsummit_norfolk_dinner.jpg",
+      "relative_path": "assets\\social_proof\\15_microsummit_norfolk_dinner.jpg",
+      "size_bytes": 136981,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "16_ai_professional_services_flyer.jpg",
+      "relative_path": "assets\\social_proof\\16_ai_professional_services_flyer.jpg",
+      "size_bytes": 174309,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "17_quote_nebraska_grows_companies.jpg",
+      "relative_path": "assets\\social_proof\\17_quote_nebraska_grows_companies.jpg",
+      "size_bytes": 117480,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "18_advisory_board_cover_slide.jpg",
+      "relative_path": "assets\\social_proof\\18_advisory_board_cover_slide.jpg",
+      "size_bytes": 212397,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    },
+    {
+      "filename": "19_builthere_on_demand_flyer.jpg",
+      "relative_path": "assets\\social_proof\\19_builthere_on_demand_flyer.jpg",
+      "size_bytes": 75065,
+      "extension": ".jpg",
+      "tier": "Tier 2"
+    }
+  ]
+}

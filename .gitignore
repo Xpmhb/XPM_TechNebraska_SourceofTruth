@@ -1,0 +1,21 @@
+# Tier 3 Bulky Files (>50MB RAW camera video, giant working files, raw print vectors)
+*.raw
+*.mov
+*.mp4
+*.m4v
+*.psd
+*.indd
+*.ai
+assets/backgrounds/production_pdfs/*.pdf
+
+# Local Environment & Secrets
+.env
+.env.local
+*.log
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
