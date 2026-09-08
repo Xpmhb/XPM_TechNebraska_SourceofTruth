@@ -38,6 +38,10 @@ XPM_TechNebraska_SourceofTruth/
 │   ├── client_profile.md                  # Entity overview, Chamber alliance, Advisory Board
 │   ├── content_and_blog_audit.md          # Complete 22-post editorial analysis & content strategy
 │   ├── seo_and_aeo_intelligence_audit.md  # SE Ranking baseline audit, keywords & 4-month roadmap
+│   ├── website_and_technical_seo_audit.md # ClickUp task 86bbv8jvv (54/100 baseline, schema defects, 15 member backlink targets)
+│   ├── social_media_and_campaign_audit.md # ClickUp task 86bbv9ha8 (LinkedIn, FB, 74-post Instagram forensic crawl)
+│   ├── competitive_intelligence_benchmark.md # ClickUp task 86bbva8yv (TAI, TechPoint, AIM, Bio NE, YouTube audit)
+│   ├── clickup_comprehensive_strategy_and_brief.md # ClickUp doc 8cfvj6d-37514 (Master Content Strategy, Ideas & Summit Retainer Brief)
 │   └── xpm_source_of_truth_standard.md    # Agency SOP for setting up future client repos
 │
 └── assets/                                # Verified Brand Assets

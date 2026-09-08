@@ -87,3 +87,21 @@ Agents MUST query [`tokens.json`](./tokens.json) for exact values. Summary of pr
 ## 7. Master One-Liner
 
 > *"Most Nebraska technology leaders operate in isolated silos while our best talent and capital leave for the coasts. Tech Nebraska convenes enterprise executives, founders, and lawmakers into a unified statewide voice—ensuring Nebraska companies lead the nation in pragmatic digital innovation."*
+
+---
+
+## 8. Strategic Audits & Intelligence Directory
+
+Agents generating proposals, social copy, SEO fixes, or client presentations MUST reference the specialized audits in [`docs/`](./docs/):
+
+1. **Master Retainer Brief & Content Strategy:** [`docs/clickup_comprehensive_strategy_and_brief.md`](./docs/clickup_comprehensive_strategy_and_brief.md)  
+   - Synced from ClickUp Doc `8cfvj6d-37514`. Contains complete proposal structure, commercial options ($3,500–$13,000/mo), Emily Allen email scope, and event logistics (VIP Reception Oct 20 at Apiary Social Club; Summit Oct 21 at CHI Health Center, 500-550 attendees).
+2. **Website & Technical SEO Audit:** [`docs/website_and_technical_seo_audit.md`](./docs/website_and_technical_seo_audit.md) & [`docs/seo_and_aeo_intelligence_audit.md`](./docs/seo_and_aeo_intelligence_audit.md)  
+   - Synced from ClickUp Task `86bbv8jvv` + SE Ranking API. Details the 54/100 composite score, broken Event JSON-LD, missing meta descriptions, `Crawl-delay: 10`, 71.2% link concentration from `nechamber.com`, and Top 15 corporate backlink acquisition targets (Kiewit, Mutual of Omaha, Union Pacific, Google, Verizon).
+3. **Multi-Platform Social Media Audit:** [`docs/social_media_and_campaign_audit.md`](./docs/social_media_and_campaign_audit.md)  
+   - Synced from ClickUp Task `86bbv9ha8`. Forensic audit of LinkedIn (3,910 followers, 1.94 posts/wk), Facebook (185 followers), and complete 74-post historical crawl of Instagram (dormant in 2026, 0 Summit posts, link-dump penalties).
+4. **Competitive Benchmark & Video Intelligence:** [`docs/competitive_intelligence_benchmark.md`](./docs/competitive_intelligence_benchmark.md)  
+   - Synced from ClickUp Task `86bbva8yv`. Regional comparisons to TAI (13,092 followers) and TechPoint (17,716 followers), YouTube audit (13 long-form webinars, 0 Shorts), and the uncontested zero-paid-ad vacuum across Nebraska tech associations.
+5. **Content & Blog Corpus Audit:** [`docs/content_and_blog_audit.md`](./docs/content_and_blog_audit.md)  
+   - Forensic taxonomy of all 22 live WordPress articles, 6 core content pillars, and 4-month editorial calendar.
+
