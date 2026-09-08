@@ -183,6 +183,39 @@ class DesignQALinter:
         self.checks_passed += 1
         return True
 
+    def check_symmetric_margins(self, graphic_id: str, element_name: str, container_bbox: Tuple[int, int, int, int], inner_bbox: Tuple[int, int, int, int], tolerance: int = 2, check_h: bool = True, check_v: bool = True) -> bool:
+        """
+        Enforces equal margins rule:
+        'Anything should have the same amount of margin on each side, top and bottom, left and right'
+        """
+        self.checks_total += 1
+        left_m = inner_bbox[0] - container_bbox[0]
+        top_m = inner_bbox[1] - container_bbox[1]
+        right_m = container_bbox[2] - inner_bbox[2]
+        bottom_m = container_bbox[3] - inner_bbox[3]
+
+        fails = []
+        if check_v:
+            v_diff = abs(top_m - bottom_m)
+            if v_diff > tolerance:
+                fails.append(f"Vertical asymmetry: Top margin ({top_m}px) != Bottom margin ({bottom_m}px), diff={v_diff}px")
+        if check_h:
+            h_diff = abs(left_m - right_m)
+            if h_diff > tolerance:
+                fails.append(f"Horizontal asymmetry: Left margin ({left_m}px) != Right margin ({right_m}px), diff={h_diff}px")
+
+        if fails:
+            self.violations.append({
+                "graphic_id": graphic_id,
+                "rule": "ASYMMETRIC_MARGINS",
+                "severity": "CRITICAL",
+                "element": element_name,
+                "details": "; ".join(fails)
+            })
+            return False
+        self.checks_passed += 1
+        return True
+
     def get_summary(self) -> str:
         out = []
         out.append("=" * 80)

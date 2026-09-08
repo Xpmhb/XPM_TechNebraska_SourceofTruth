@@ -12,6 +12,7 @@ Engineered with strict Design QA & Typography Linter standards:
 
 import os
 import sys
+from typing import Tuple, List, Dict, Any
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 # Add scripts directory to path to import DesignQALinter
@@ -76,18 +77,95 @@ def load_bg(path: str, w: int, h: int, darken_alpha: int = 140):
     overlay = Image.new("RGBA", (w, h), (24, 20, 21, darken_alpha))
     return Image.alpha_composite(bg, overlay)
 
-def draw_pill(draw: ImageDraw.ImageDraw, linter_inst: DesignQALinter, gid: str, x: int, y: int, text: str, font, fill_color, text_color, px: int = 24, py: int = 12, outline_color = None, outline_width: int = 2):
-    """Draws a pill with font size check and calculated padding."""
+def draw_badge_exact(draw: ImageDraw.ImageDraw, linter_inst: DesignQALinter, gid: str, x: int, y: int, text: str, font, fill_color, text_color, pad_x: int = 22, pad_y: int = 10, radius: int = 6, outline_color = None, outline_width: int = 2, align_h: str = "left"):
+    """
+    Draws a rectangular badge with mathematical equal margins on all sides (top=bottom, left=right).
+    Enforces exact pixel symmetry to prevent AI slop and spacing defects.
+    """
+    linter_inst.check_font_size(gid, f"Badge: '{text}'", text, "Font", font.size)
+    bbox = draw.textbbox((0, 0), text, font=font)
+    t_left, t_top, t_right, t_bottom = bbox
+    t_w = t_right - t_left
+    t_h = t_bottom - t_top
+    box_w = t_w + 2 * pad_x
+    box_h = t_h + 2 * pad_y
+
+    if align_h == "center":
+        box_x = x - box_w // 2
+    elif align_h == "right":
+        box_x = x - box_w
+    else:
+        box_x = x
+    box_y = y
+
+    box = (box_x, box_y, box_x + box_w, box_y + box_h)
+    draw.rounded_rectangle(box, radius=radius, fill=fill_color, outline=outline_color, width=outline_width)
+
+    text_x = box_x + pad_x - t_left
+    text_y = box_y + pad_y - t_top
+    draw.text((text_x, text_y), text, font=font, fill=text_color)
+
+    act_bbox = draw.textbbox((text_x, text_y), text, font=font)
+    linter_inst.check_symmetric_margins(gid, f"Badge: '{text}'", box, act_bbox, tolerance=2)
+    return box
+
+def draw_pill_exact(draw: ImageDraw.ImageDraw, linter_inst: DesignQALinter, gid: str, x: int, y: int, text: str, font, fill_color, text_color, pad_x: int = None, pad_y: int = 12, outline_color = None, outline_width: int = 2, align_h: str = "left"):
+    """
+    Draws a pill/capsule with generous end-cap clearance and equal margins (top=bottom, left=right).
+    Guarantees that rounded caps never pinch or crowd the text boundary.
+    """
     linter_inst.check_font_size(gid, f"Pill: '{text}'", text, "Font", font.size)
     bbox = draw.textbbox((0, 0), text, font=font)
-    tw = bbox[2] - bbox[0]
-    th = bbox[3] - bbox[1]
-    pw = tw + 2 * px
-    ph = th + 2 * py
-    pill_box = (x, y, x + pw, y + ph)
-    draw.rounded_rectangle(pill_box, radius=ph // 2, fill=fill_color, outline=outline_color, width=outline_width)
-    draw.text((x + px, y + py - 2), text, font=font, fill=text_color)
-    return pill_box
+    t_left, t_top, t_right, t_bottom = bbox
+    t_w = t_right - t_left
+    t_h = t_bottom - t_top
+    box_h = t_h + 2 * pad_y
+    radius = box_h // 2
+    min_pad_x = radius + max(8, pad_y)
+    actual_pad_x = max(min_pad_x, pad_x if pad_x is not None else min_pad_x)
+    box_w = t_w + 2 * actual_pad_x
+
+    if align_h == "center":
+        box_x = x - box_w // 2
+    elif align_h == "right":
+        box_x = x - box_w
+    else:
+        box_x = x
+    box_y = y
+
+    box = (box_x, box_y, box_x + box_w, box_y + box_h)
+    draw.rounded_rectangle(box, radius=radius, fill=fill_color, outline=outline_color, width=outline_width)
+
+    text_x = box_x + actual_pad_x - t_left
+    text_y = box_y + pad_y - t_top
+    draw.text((text_x, text_y), text, font=font, fill=text_color)
+
+    act_bbox = draw.textbbox((text_x, text_y), text, font=font)
+    linter_inst.check_symmetric_margins(gid, f"Pill: '{text}'", box, act_bbox, tolerance=2)
+    return box
+
+def draw_button_exact(draw: ImageDraw.ImageDraw, linter_inst: DesignQALinter, gid: str, box: Tuple[int, int, int, int], text: str, font, fill_color, text_color, radius: int = 45, outline_color = None, outline_width: int = 2):
+    """
+    Draws a button inside an explicit container box with exact vertical & horizontal margin centering.
+    """
+    linter_inst.check_font_size(gid, f"Button: '{text}'", text, "Font", font.size)
+    bbox = draw.textbbox((0, 0), text, font=font)
+    t_left, t_top, t_right, t_bottom = bbox
+    t_w = t_right - t_left
+    t_h = t_bottom - t_top
+    bw = box[2] - box[0]
+    bh = box[3] - box[1]
+    pad_x = (bw - t_w) // 2
+    pad_y = (bh - t_h) // 2
+
+    draw.rounded_rectangle(box, radius=radius, fill=fill_color, outline=outline_color, width=outline_width)
+    text_x = box[0] + pad_x - t_left
+    text_y = box[1] + pad_y - t_top
+    draw.text((text_x, text_y), text, font=font, fill=text_color)
+
+    act_bbox = draw.textbbox((text_x, text_y), text, font=font)
+    linter_inst.check_symmetric_margins(gid, f"Button: '{text}'", box, act_bbox, tolerance=2)
+    return box
 
 def draw_wrapped(draw: ImageDraw.ImageDraw, linter_inst: DesignQALinter, gid: str, text: str, font, color, max_w: int, start_x: int, start_y: int, line_h: int, align: str = "left", canvas_w: int = 1080):
     """Draws wrapped text with strict font size validation and optional mathematical centering."""
@@ -133,17 +211,17 @@ gid1 = "01_summit_keynote"
 print(f"Rendering {gid1}...")
 img1 = load_bg(bg_orb3_path, 1080, 1080, darken_alpha=120)
 
-# Official Logo at top left
-linter.check_authentic_logo(gid1, logo_white_path, VALID_LOGOS)
-logo1 = Image.open(logo_white_path).convert("RGBA")
+# Official Logo at top left - authentic color reversed logo matching 04_summit_keynote_announcement.jpg
+linter.check_authentic_logo(gid1, logo_color_rev_path, VALID_LOGOS)
+logo1 = Image.open(logo_color_rev_path).convert("RGBA")
 l_scale1 = 56 / logo1.height
 logo_w1 = int(logo1.width * l_scale1)
 logo_res1 = logo1.resize((logo_w1, 56), Image.Resampling.LANCZOS)
 img1.paste(logo_res1, (70, 65), logo_res1)
 
 draw1 = ImageDraw.Draw(img1)
-# Official Summit 2026 subtag directly under logo
-draw_pill(draw1, linter, gid1, 70, 135, "summit_2026", get_font(spacegrotesk_path, 28), COLOR_OBSIDIAN, COLOR_GOLD, px=18, py=6, outline_color=COLOR_GOLD, outline_width=2)
+# Official Summit 2026 rectangular badge under logo (exact symmetric margins: top=10, bottom=10, left=22, right=22)
+badge1_box = draw_badge_exact(draw1, linter, gid1, 92, 135, "summit_2026", get_font(spacegrotesk_path, 28), COLOR_OBSIDIAN, COLOR_GOLD, pad_x=22, pad_y=10, radius=6, outline_color=COLOR_GOLD, outline_width=2)
 
 # Brody Portrait Cutout on Right
 if os.path.exists(brody_portrait_path):
@@ -160,24 +238,24 @@ if os.path.exists(brody_portrait_path):
 
 # Authentic Stepped Obsidian Card Container (Exact Replica of 04_summit_keynote_announcement.jpg)
 # Polygon points for authentic stepped silhouette:
-# Tier 1 (Keynote Speaker): x=60 to 500, y=505 to 585
-# Tier 2 (Brody Deren):     x=60 to 880, y=585 to 745
-# Tier 3 (Title & Org):     x=60 to 810, y=745 to 925
+# Tier 1 (Keynote Speaker): x=60 to 500, y=470 to 565
+# Tier 2 (Brody Deren):     x=60 to 860, y=565 to 735
+# Tier 3 (Title & Org):     x=60 to 810, y=735 to 920
 card_layer1 = Image.new("RGBA", (1080, 1080), (0, 0, 0, 0))
 cd1 = ImageDraw.Draw(card_layer1)
 
 stepped_poly1 = [
-    (60, 475),
-    (500, 475),
-    (500, 575),
-    (880, 575),
-    (880, 740),
-    (810, 740),
-    (810, 925),
-    (60, 925)
+    (60, 470),
+    (500, 470),
+    (500, 565),
+    (860, 565),
+    (860, 735),
+    (810, 735),
+    (810, 920),
+    (60, 920)
 ]
 cd1.polygon(stepped_poly1, fill=(24, 20, 21, 248))
-cd1.line(stepped_poly1 + [(60, 475)], fill=(0, 128, 199, 70), width=2)
+cd1.line(stepped_poly1 + [(60, 470)], fill=(0, 128, 199, 70), width=2)
 img1 = Image.alpha_composite(img1, card_layer1)
 draw1 = ImageDraw.Draw(img1)
 
@@ -192,32 +270,52 @@ try:
 except Exception:
     pass
 linter.check_font_size(gid1, "Eyebrow", "Keynote Speaker", "WorkSans", 42)
-draw1.text((115, 520), "Keynote Speaker", font=font_eye1, fill=COLOR_WHITE)
+bb_eye1 = draw1.textbbox((0, 0), "Keynote Speaker", font=font_eye1)
+h_eye1 = bb_eye1[3] - bb_eye1[1]
+y_eye1 = 470 + (95 - h_eye1) / 2.0 - bb_eye1[1]
+draw1.text((110 - bb_eye1[0], y_eye1), "Keynote Speaker", font=font_eye1, fill=COLOR_WHITE)
+act_eye1 = (110, int(y_eye1 + bb_eye1[1]), 110 + bb_eye1[2] - bb_eye1[0], int(y_eye1 + bb_eye1[3]))
+linter.check_symmetric_margins(gid1, "Tier 1 (Keynote Speaker)", (60, 470, 500, 565), act_eye1, tolerance=2, check_h=False, check_v=True)
 
 # Tier 2: Speaker Name in GILGAN (110px) - Bold Mint Green (#00C48C) matching authentic 04_summit_keynote
 font_name1 = get_font(gilgan_path, 110)
 linter.check_font_size(gid1, "Speaker Name", "Brody Deren", "Gilgan", 110)
-draw1.text((115, 590), "Brody Deren", font=font_name1, fill=COLOR_MINT)
+bb_name1 = draw1.textbbox((0, 0), "Brody Deren", font=font_name1)
+h_name1 = bb_name1[3] - bb_name1[1]
+y_name1 = 565 + (170 - h_name1) / 2.0 - bb_name1[1]
+draw1.text((110 - bb_name1[0], y_name1), "Brody Deren", font=font_name1, fill=COLOR_MINT)
+act_name1 = (110, int(y_name1 + bb_name1[1]), 110 + bb_name1[2] - bb_name1[0], int(y_name1 + bb_name1[3]))
+linter.check_symmetric_margins(gid1, "Tier 2 (Brody Deren)", (60, 565, 860, 735), act_name1, tolerance=2, check_h=False, check_v=True)
 
 # Tier 3: Speaker Title and Org in clean Work Sans (34px / 30px)
 font_title1 = get_font(worksans_path, 34)
-try:
-    font_title1.set_variation_by_axes([500])
-except Exception:
-    pass
-linter.check_font_size(gid1, "Speaker Title", "VP of Technology, Union Pacific Railroad", "WorkSans", 34)
-draw1.text((115, 765), "VP of Technology, Union Pacific Railroad", font=font_title1, fill=COLOR_WHITE)
-
 font_sub1 = get_font(worksans_path, 30)
 try:
+    font_title1.set_variation_by_axes([500])
     font_sub1.set_variation_by_axes([400])
 except Exception:
     pass
+linter.check_font_size(gid1, "Speaker Title", "VP of Technology, Union Pacific Railroad", "WorkSans", 34)
 linter.check_font_size(gid1, "Board Role", "Tech Nebraska Executive Advisory Board", "WorkSans", 30)
-draw1.text((115, 820), "Tech Nebraska Executive Advisory Board", font=font_sub1, fill=COLOR_OFFWHITE)
+
+bb_t1 = draw1.textbbox((0, 0), "VP of Technology, Union Pacific Railroad", font=font_title1)
+bb_s1 = draw1.textbbox((0, 0), "Tech Nebraska Executive Advisory Board", font=font_sub1)
+h_t1 = bb_t1[3] - bb_t1[1]
+h_s1 = bb_s1[3] - bb_s1[1]
+gap1_3 = 14
+tot_h3 = h_t1 + gap1_3 + h_s1
+pad3_y = (185 - tot_h3) / 2.0
+y3_1 = 735 + pad3_y - bb_t1[1]
+y3_2 = (y3_1 + bb_t1[3] + gap1_3) - bb_s1[1]
+
+draw1.text((110 - bb_t1[0], y3_1), "VP of Technology, Union Pacific Railroad", font=font_title1, fill=COLOR_WHITE)
+draw1.text((110 - bb_s1[0], y3_2), "Tech Nebraska Executive Advisory Board", font=font_sub1, fill=COLOR_OFFWHITE)
+
+act_t3 = (110, int(y3_1 + bb_t1[1]), 110 + max(bb_t1[2] - bb_t1[0], bb_s1[2] - bb_s1[0]), int(y3_2 + bb_s1[3]))
+linter.check_symmetric_margins(gid1, "Tier 3 (Title & Role)", (60, 735, 810, 920), act_t3, tolerance=2, check_h=False, check_v=True)
 
 # Container Padding Validation
-linter.check_container_padding(gid1, "Keynote Stepped Card", (60, 475, 880, 925), (115, 520, 810, 860), min_padding=40)
+linter.check_container_padding(gid1, "Keynote Stepped Card", (60, 470, 860, 920), (110, act_eye1[1], 810, act_t3[3]), min_padding=25)
 
 out1 = os.path.join(output_dir, "01_summit_keynote_announcement_1080x1080.png")
 img1.convert("RGB").save(out1, quality=95)
@@ -312,22 +410,9 @@ logo_w3 = int(logo3.width * l_scale3)
 logo_res3 = logo3.resize((logo_w3, 54), Image.Resampling.LANCZOS)
 img3.paste(logo_res3, (130, 123), logo_res3)
 
-# Right: Advisory Board Spotlight Pill (Right edge aligned flush with x: 950)
+# Right: Advisory Board Spotlight Badge (Right edge aligned flush with x: 950, exact symmetric margins)
 font_badge3 = get_font(spacegrotesk_path, 28)
-linter.check_font_size(gid3, "Spotlight Badge", "ADVISORY BOARD", "SpaceGrotesk", 28)
-badge_text = "ADVISORY BOARD"
-bb_badge = draw3.textbbox((0, 0), badge_text, font=font_badge3)
-badge_tw = bb_badge[2] - bb_badge[0]
-badge_th = bb_badge[3] - bb_badge[1]
-b_px, b_py = 22, 10
-b_pw = badge_tw + 2 * b_px
-b_ph = badge_th + 2 * b_py
-b_x = 950 - b_pw
-b_y = 150 - (b_ph // 2)
-
-# Solid Obsidian card color with gold outline and gold text for razor-sharp legibility
-draw3.rounded_rectangle((b_x, b_y, 950, b_y + b_ph), radius=b_ph // 2, fill=COLOR_OBSIDIAN, outline=COLOR_GOLD, width=2)
-draw3.text((b_x + b_px, b_y + b_py - 2), badge_text, font=font_badge3, fill=COLOR_GOLD)
+badge3_box = draw_badge_exact(draw3, linter, gid3, 950, 130, "ADVISORY BOARD", font_badge3, COLOR_OBSIDIAN, COLOR_GOLD, pad_x=22, pad_y=10, radius=6, outline_color=COLOR_GOLD, outline_width=2, align_h="right")
 
 # Spacing Check: Gap between Header row (177) and Headline (235) = 58px
 linter.check_vertical_gap(gid3, "Header Row", 177, "Headline", 235, min_gap=30, max_gap=80)
@@ -380,10 +465,10 @@ font_s_org3 = get_font(worksans_path, 28)
 linter.check_font_size(gid3, "Speaker Board Role", "Tech Nebraska Executive Advisory Board", "WorkSans", 28)
 draw3.text((320, 782), "Tech Nebraska Executive Advisory Board", font=font_s_org3, fill=COLOR_MUTED)
 
-# Bottom Pill inside card (CTA/URL) with high-contrast solid backgrounds
+# Bottom Pill inside card (CTA/URL) with high-contrast solid backgrounds and symmetric margins
 font_bot3 = get_font(spacegrotesk_path, 28)
-draw_pill(draw3, linter, gid3, 130, 895, "technologynebraska.com", font_bot3, COLOR_BLUE, COLOR_WHITE, px=24, py=12)
-draw_pill(draw3, linter, gid3, 590, 895, "ANNUAL SUMMIT • OCT 21", font_bot3, COLOR_GOLD, COLOR_OBSIDIAN, px=28, py=12)
+draw_pill_exact(draw3, linter, gid3, 130, 895, "technologynebraska.com", font_bot3, COLOR_BLUE, COLOR_WHITE, pad_x=28, pad_y=12)
+draw_pill_exact(draw3, linter, gid3, 950, 895, "ANNUAL SUMMIT • OCT 21", font_bot3, COLOR_GOLD, COLOR_OBSIDIAN, pad_x=28, pad_y=12, align_h="right")
 
 # Container Padding Validation
 linter.check_container_padding(gid3, "Quote Container Card", card3_box, (130, 123, 950, 950), min_padding=50)
@@ -438,8 +523,8 @@ font_desc4 = get_font(worksans_path, 34)
 bia_desc = "Tech Nebraska defended critical matching grants, R&D tax credits, and venture acceleration for builders."
 draw_wrapped(draw4, linter, gid4, bia_desc, font_desc4, COLOR_OFFWHITE, max_w=720, start_x=160, start_y=680, line_h=48)
 
-# Footer inside Card
-draw_pill(draw4, linter, gid4, 160, 860, "technologynebraska.com/policy", get_font(spacegrotesk_path, 28), COLOR_BLUE, COLOR_WHITE, px=24, py=12)
+# Footer inside Card with symmetric margins
+draw_pill_exact(draw4, linter, gid4, 160, 860, "technologynebraska.com/policy", get_font(spacegrotesk_path, 28), COLOR_BLUE, COLOR_WHITE, pad_x=28, pad_y=12)
 
 # Container Padding Validation
 linter.check_container_padding(gid4, "BIA Card", card4_box, (160, 150, 880, 920), min_padding=50)
@@ -464,7 +549,7 @@ cd5.rounded_rectangle(card5_box, radius=32, fill=(24, 20, 21, 245), outline=(0, 
 img5 = Image.alpha_composite(img5, card5)
 draw5 = ImageDraw.Draw(img5)
 
-# Top Bar: Official White Logo + Save The Date Badge
+# Top Bar: Official White Logo + Save The Date Badge (flush right with x: 950)
 linter.check_authentic_logo(gid5, logo_white_path, VALID_LOGOS)
 logo5 = Image.open(logo_white_path).convert("RGBA")
 l_scale5 = 56 / logo5.height
@@ -472,7 +557,7 @@ logo_w5 = int(logo5.width * l_scale5)
 logo_res5 = logo5.resize((logo_w5, 56), Image.Resampling.LANCZOS)
 img5.paste(logo_res5, (130, 120), logo_res5)
 
-draw_pill(draw5, linter, gid5, 650, 125, "SAVE THE DATE • 2026", get_font(spacegrotesk_path, 28), COLOR_BLUE, COLOR_WHITE, px=22, py=10)
+draw_badge_exact(draw5, linter, gid5, 950, 130, "SAVE THE DATE • 2026", get_font(spacegrotesk_path, 28), COLOR_BLUE, COLOR_WHITE, pad_x=24, pad_y=10, radius=6, align_h="right")
 
 # Eyebrow in Goldenrod (34px)
 font_eye5 = get_font(spacegrotesk_path, 34)
@@ -487,8 +572,8 @@ linter.check_font_size(gid5, "Summit Subhead", "SUMMIT 2026", "Gilgan", 86)
 draw5.text((130, 290), "OCTOBER 21", font=font_date5, fill=COLOR_WHITE)
 draw5.text((130, 445), "SUMMIT 2026", font=font_summit5, fill=COLOR_CYAN)
 
-# Venue Pill (Clean text without emoji glyph defect)
-draw_pill(draw5, linter, gid5, 130, 580, "CHI HEALTH CENTER • OMAHA, NE", get_font(spacegrotesk_path, 32), (0, 128, 199, 45), COLOR_WHITE, px=26, py=12, outline_color=COLOR_BLUE)
+# Venue Pill (Clean text with symmetric margins)
+draw_pill_exact(draw5, linter, gid5, 130, 580, "CHI HEALTH CENTER • OMAHA, NE", get_font(spacegrotesk_path, 32), COLOR_OBSIDIAN, COLOR_WHITE, pad_x=28, pad_y=12, outline_color=COLOR_BLUE, outline_width=2)
 
 # Proposition Body in Work Sans (36px)
 font_desc5 = get_font(worksans_path, 36)
@@ -498,20 +583,34 @@ draw_wrapped(draw5, linter, gid5, summit_prop, font_desc5, COLOR_OFFWHITE, max_w
 # Divider Line at Y=880
 draw5.line((130, 880, 950, 880), fill=(210, 228, 242, 60), width=2)
 
-# High-Contrast Track Banner Card (Replaces awkward stacked pills)
-track_box = (130, 925, 950, 1055)
+# High-Contrast Track Banner Card (Symmetric vertical and horizontal margins)
+track_box = (130, 920, 950, 1060)
 draw5.rounded_rectangle(track_box, radius=18, fill=COLOR_OBSIDIAN, outline=(210, 228, 242, 45), width=2)
-draw5.text((160, 945), "SPECIALIZED SPRINT TRACKS:", font=get_font(spacegrotesk_path, 28), fill=COLOR_GOLD)
-draw5.text((160, 995), "• APPLIED AI   • CYBERSECURITY   • $15M CAPITAL", font=get_font(spacegrotesk_path, 28), fill=COLOR_WHITE)
+font_trk_h = get_font(spacegrotesk_path, 28)
+font_trk_b = get_font(spacegrotesk_path, 28)
+linter.check_font_size(gid5, "Track Header", "SPECIALIZED SPRINT TRACKS:", "SpaceGrotesk", 28)
+linter.check_font_size(gid5, "Track Items", "• APPLIED AI   • CYBERSECURITY   • $15M CAPITAL", "SpaceGrotesk", 28)
 
-# Bottom Full-Width CTA Button
+bb_th = draw5.textbbox((0, 0), "SPECIALIZED SPRINT TRACKS:", font=font_trk_h)
+bb_tb = draw5.textbbox((0, 0), "• APPLIED AI   • CYBERSECURITY   • $15M CAPITAL", font=font_trk_b)
+h_th = bb_th[3] - bb_th[1]
+h_tb = bb_tb[3] - bb_tb[1]
+gap_trk = 14
+tot_trk_h = h_th + gap_trk + h_tb
+pad_trk_y = (140 - tot_trk_h) / 2.0
+y_trk1 = 920 + pad_trk_y - bb_th[1]
+y_trk2 = (y_trk1 + bb_th[3] + gap_trk) - bb_tb[1]
+
+draw5.text((160 - bb_th[0], y_trk1), "SPECIALIZED SPRINT TRACKS:", font=font_trk_h, fill=COLOR_GOLD)
+draw5.text((160 - bb_tb[0], y_trk2), "• APPLIED AI   • CYBERSECURITY   • $15M CAPITAL", font=font_trk_b, fill=COLOR_WHITE)
+
+act_trk = (160, int(y_trk1 + bb_th[1]), 160 + max(bb_th[2] - bb_th[0], bb_tb[2] - bb_tb[0]), int(y_trk2 + bb_tb[3]))
+linter.check_symmetric_margins(gid5, "Specialized Sprint Tracks", track_box, act_trk, tolerance=2, check_h=False, check_v=True)
+
+# Bottom Full-Width CTA Button (Exact symmetric margins)
 cta5_box = (130, 1145, 950, 1235)
-draw5.rounded_rectangle(cta5_box, radius=45, fill=COLOR_BLUE)
 font_btn5 = get_font(spacegrotesk_path, 32)
-linter.check_font_size(gid5, "CTA Button Text", "REGISTER AT TECHNOLOGYNEBRASKA.COM →", "SpaceGrotesk", 32)
-bb_btn5 = draw5.textbbox((0, 0), "REGISTER AT TECHNOLOGYNEBRASKA.COM →", font=font_btn5)
-btn5_w = bb_btn5[2] - bb_btn5[0]
-draw5.text((130 + (820 - btn5_w) // 2, 1172), "REGISTER AT TECHNOLOGYNEBRASKA.COM →", font=font_btn5, fill=COLOR_WHITE)
+draw_button_exact(draw5, linter, gid5, cta5_box, "REGISTER AT TECHNOLOGYNEBRASKA.COM →", font_btn5, COLOR_BLUE, COLOR_WHITE, radius=45)
 
 # Container Padding Validation
 linter.check_container_padding(gid5, "Summit Save Date Card", card5_box, (130, 120, 950, 1235), min_padding=40)
@@ -639,52 +738,58 @@ for si, (s_pre, s_val, s_suf, s_lbl, s_col, s_sub) in enumerate(stats_v3):
     # Centering check for card
     linter.check_centering(gid6, f"Stat Card {si+1}", card_box, 1080)
     
+    # Vertical centering inside stat card
+    num_bb = draw6.textbbox((0, 0), s_val, font=font_s_num)
+    num_h = num_bb[3] - num_bb[1]
+    pad_num_y = (card_h6 - num_h) / 2.0
+    y_num = cy + pad_num_y - num_bb[1]
+
+    lbl_bb = draw6.textbbox((0, 0), s_lbl, font=font_s_lbl)
+    sub_bb = draw6.textbbox((0, 0), s_sub, font=font_s_sub)
+    h_lbl = lbl_bb[3] - lbl_bb[1]
+    h_sub = sub_bb[3] - sub_bb[1]
+    gap_s = 10
+    tot_s_h = h_lbl + gap_s + h_sub
+    pad_s_y = (card_h6 - tot_s_h) / 2.0
+    y_lbl = cy + pad_s_y - lbl_bb[1]
+    y_sub = (y_lbl + lbl_bb[3] + gap_s) - sub_bb[1]
+
     # Number on left
     nx = card_x6 + 40
     if s_pre:
-        draw6.text((nx, cy + 22), s_pre, font=font_s_sym, fill=s_col)
+        draw6.text((nx, y_num), s_pre, font=font_s_sym, fill=s_col)
         bb_pre = draw6.textbbox((0, 0), s_pre, font=font_s_sym)
         nx += (bb_pre[2] - bb_pre[0]) + 4
-    draw6.text((nx, cy + 22), s_val, font=font_s_num, fill=s_col)
+    draw6.text((nx, y_num), s_val, font=font_s_num, fill=s_col)
     if s_suf:
         bb_val = draw6.textbbox((0, 0), s_val, font=font_s_num)
         nx_suf = nx + (bb_val[2] - bb_val[0]) + 4
-        draw6.text((nx_suf, cy + 22), s_suf, font=font_s_sym, fill=s_col)
+        draw6.text((nx_suf, y_num), s_suf, font=font_s_sym, fill=s_col)
     
     # Label & Subtext on right
     tx = card_x6 + 320
     linter.check_font_size(gid6, f"Stat Label {si+1}", s_lbl, "SpaceGrotesk", 30)
-    draw6.text((tx, cy + 28), s_lbl, font=font_s_lbl, fill=COLOR_WHITE)
+    draw6.text((tx, y_lbl), s_lbl, font=font_s_lbl, fill=COLOR_WHITE)
     
     linter.check_font_size(gid6, f"Stat Subtext {si+1}", s_sub, "WorkSans", 28)
-    draw6.text((tx, cy + 72), s_sub, font=font_s_sub, fill=COLOR_MUTED)
+    draw6.text((tx, y_sub), s_sub, font=font_s_sub, fill=COLOR_MUTED)
 
-# Venue Callout Pill (Clean text without emoji defect)
+    act_stat_r = (tx, int(y_lbl + lbl_bb[1]), tx + max(lbl_bb[2] - lbl_bb[0], sub_bb[2] - sub_bb[0]), int(y_sub + sub_bb[3]))
+    linter.check_symmetric_margins(gid6, f"Stat Card {si+1} Text Block", card_box, act_stat_r, tolerance=2, check_h=False, check_v=True)
+
+# Venue Callout Pill (Exact symmetric margins)
 pill_v6_text = "CHI HEALTH CENTER • OMAHA, NE"
 font_v6_pill = get_font(spacegrotesk_path, 32)
-bb_pv6 = draw6.textbbox((0, 0), pill_v6_text, font=font_v6_pill)
-pv6_w = bb_pv6[2] - bb_pv6[0] + 48
-pv6_h = bb_pv6[3] - bb_pv6[1] + 24
-pv6_x = (1080 - pv6_w) // 2
-pv6_y = 1380
-draw_pill(draw6, linter, gid6, pv6_x, pv6_y, pill_v6_text, font_v6_pill, COLOR_OBSIDIAN, COLOR_GOLD, px=24, py=12, outline_color=COLOR_GOLD)
-linter.check_centering(gid6, "Venue Pill", (pv6_x, pv6_y, pv6_x + pv6_w, pv6_y + pv6_h), 1080)
+draw_pill_exact(draw6, linter, gid6, 540, 1380, pill_v6_text, font_v6_pill, COLOR_OBSIDIAN, COLOR_GOLD, pad_x=28, pad_y=12, outline_color=COLOR_GOLD, outline_width=2, align_h="center")
 
-# Bottom Safe Zone CTA Button (Centered Mathematically!)
+# Bottom Safe Zone CTA Button (Exact symmetric margins & centered)
 cta6_w = 920
 cta6_h = 105
 cta6_x = (1080 - cta6_w) // 2
 cta6_y = 1480
 cta6_box = (cta6_x, cta6_y, cta6_x + cta6_w, cta6_y + cta6_h)
-draw6.rounded_rectangle(cta6_box, radius=52, fill=COLOR_GOLD)
-linter.check_centering(gid6, "CTA Button", cta6_box, 1080)
-
-cta6_text = "CLAIM YOUR EARLY PASS →"
 font_cta6 = get_font(spacegrotesk_path, 36)
-linter.check_font_size(gid6, "CTA Button Text", cta6_text, "SpaceGrotesk", 36)
-bb_c6 = draw6.textbbox((0, 0), cta6_text, font=font_cta6)
-c6_tw = bb_c6[2] - bb_c6[0]
-draw6.text((cta6_x + (cta6_w - c6_tw) // 2, cta6_y + 34), cta6_text, font=font_cta6, fill=COLOR_OBSIDIAN)
+draw_button_exact(draw6, linter, gid6, cta6_box, "CLAIM YOUR EARLY PASS →", font_cta6, COLOR_GOLD, COLOR_OBSIDIAN, radius=52)
 
 # URL at Bottom (Centered Mathematically!)
 url6_text = "technologynebraska.com"
