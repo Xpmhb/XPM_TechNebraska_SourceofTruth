@@ -1,0 +1,398 @@
+Daragh Mahon Interview A Cam.txt
+English (US)
+
+00:00:00.240 — 00:00:25.000 · Speaker 1
+So the idea is we're actually going to create a couple different pieces of short form content and we'll kind of, you know, schedule it out over time to really help create some some helpful pieces of information, um, for, uh, for a couple of different audiences. So we're going to be talking to kind of the CIO, CTO audience.
+
+We'll also have a little bit of questions for like the youth, um, you know, college age audience. Um, and then we'll kind of bring it out.
+
+
+00:00:25.040 — 00:00:29.040 · Speaker 2
+So what is ZPM? Is this just this what you guys do? Just generally.
+
+
+00:00:29.080 — 00:00:41.720 · Speaker 1
+ZPM stands for experience marketing. Okay. And we really want to focus on, you know, storytelling and, um, also like, some modernization. Right. So as technology evolves, so does the way people consume, you know.
+
+
+00:00:42.000 — 00:00:47.520 · Speaker 2
+Content stories. Yeah. Believe me. Um, yeah. We were just talking about this yesterday. Um, yeah. It's it's.
+
+
+00:00:47.520 — 00:00:48.760 · Speaker 1
+It's crazy. Are you ready to rock and roll?
+
+
+00:00:48.880 — 00:00:49.480 · Speaker 2
+It's interesting.
+
+
+00:00:49.880 — 00:00:55.440 · Speaker 1
+Cool beans. Let me get my, um, questions up here. And, um. It's da.
+
+
+00:00:55.840 — 00:00:56.280 · Speaker 2
+Da da.
+
+
+00:00:56.280 — 00:00:57.040 · Speaker 1
+Da da da.
+
+
+00:00:57.080 — 00:01:03.440 · Speaker 2
+Da da. Yeah, just forget it. think of it as Tara. Would it be and know that's the easy way? Tara. Yeah.
+
+
+00:01:03.480 — 00:01:04.120 · Speaker 1
+Okay, so that's.
+
+
+00:01:04.120 — 00:01:13.840 · Speaker 2
+What I would know. My Irish, my Irish family, if they heard me say that would kick my ass. But, you know, you Americans have to be, you know. Yeah, we got we got to make it simple for you guys.
+
+
+00:01:13.880 — 00:01:22.120 · Speaker 1
+Yeah. That's okay. Wouldn't be the first time, you know. So, uh, Dara, I want to, um, would you go ahead and say and spell your name for me real quick?
+
+
+00:01:22.120 — 00:01:26.640 · Speaker 2
+So first name is Dara DARA last name is Mahanama.
+
+
+00:01:27.760 — 00:01:29.840 · Speaker 1
+And then what is your title and company?
+
+
+00:01:29.840 — 00:01:33.920 · Speaker 2
+I am executive vice president and CIO at Warner Enterprises.
+
+
+00:01:34.200 — 00:01:38.880 · Speaker 1
+And my first question is a little silly, but it's, uh, who are you and what do you do?
+
+
+00:01:40.040 — 00:01:45.280 · Speaker 2
+It's a little silly. Um, who am I? You know? So first of all, I
+
+
+00:01:46.440 — 00:02:12.240 · Speaker 2
+am an Irish immigrant who came to the USA 32 years ago. I hold dual citizenship. So when the Ryder Cup is on, I can go either way. Um, but, you know, that's who I am, And I, you know, I love this country. I love what it's done for me. But I love Ireland and I love I love my heritage. So I have I have a little bit of that jewel.
+
+I really am a dual citizen. I love both countries where I have citizenship. Um, what do I do? I think, um,
+
+
+00:02:14.040 — 00:03:30.480 · Speaker 2
+you know, I, I often try, I try to remember to say this because I really believe it. Like I am first and foremost a dad and a husband. Like, that's the most important thing to me. Um, and then I think I love my job and I love what I do. I'm a technologist. I never thought I would be a technologist, but I got into technology 25 years ago, and I kind of worked my way through all kinds of areas, worked in every area of technology with business people, and finally ended up, you know, somehow getting the offer of a job to come to be a CIO at a trucking company in Omaha, Nebraska, which just floors me that that I'm here.
+
+I came here six years ago, and I love what I do. I own technology for the entire organization. I have a great team working with me and I think what we're doing. This to me is the most important. Critical part is we're not just modernizing technology for our enterprises. We're doing our very best to shift the modernization of technology for the entire trucking industry across the industry, because transportation in general needs to be modernized.
+
+We're still running on A's for 100%, running on mainframe, on premise solutions. So there's a lot of concern that there's an aging infrastructure out there in both terms of hardware and software and applications. We've got to modernize that.
+
+
+00:03:31.360 — 00:03:33.760 · Speaker 1
+What are you most passionate about?
+
+
+00:03:34.720 — 00:05:08.200 · Speaker 2
+You know that changes every so often. So but I think right now I'm very passionate about the emergence of new technology. And it doesn't have to be AI, although it's all driven by a right now. So what I love more than anything, I think all innovation in any capacity in technology is happening at the startup level.
+
+So it's companies. Young founders. He or she have an idea. They have a they have something they're passionate about in terms of technology and platform. And they're going to go run that the ground. And I think the beauty of a startup and the beauty of a founder and a startup is they have to pull out all the stops.
+
+They have to go for it. They're going to get limited amount of cash until they can make a product or break, and they just have to go for it and have to just can't take it safe, have to take risks. So I'm really passionate about supporting that group of people, giving them the opportunity to pitch to large corporations like the one I'm involved in, and trying to get the message out there to CIOs and CTOs and VP's of technology.
+
+Just take a minute and talk to these people, because this is the future, not just of the state of Nebraska and Omaha as a city, but it's the future of all technology and what we have to do to create an environment where tech gets a fair shake at everything and it's across the board. Remember, every company is a tech company.
+
+Now we got to get that innovation and we got to nurture it, and we got to help them pay for it, and we got to give them every encouragement that we possibly can. So that's what I'm really passionate at the start of community. I say this all the time. If I had to go back to 25, 20, this is what I would do. I would do a startup.
+
+
+00:05:08.240 — 00:05:09.200 · Speaker 1
+Put the chips in.
+
+
+00:05:09.800 — 00:05:28.960 · Speaker 2
+Absolutely. I mean, you know, I love doing what I do and I, you know, nothing would have changed the path I took. I don't think I don't regret a single minute of it. Well, maybe a few minutes here and there, but but for the most part, I don't regret a minute of it. But if I were to start all over again, knowing what I know today, I would go startup.
+
+I would start my own company. I got 1500 ideas.
+
+
+00:05:30.200 — 00:05:36.000 · Speaker 1
+Um, what was your first experience with technology and how did you kind of fall into that career path?
+
+
+00:05:36.040 — 00:05:36.840 · Speaker 2
+Oh, you know,
+
+
+00:05:38.520 — 00:06:43.720 · Speaker 2
+it's gone by like go back to the 1980s, right? And I think what captivated me and, you know, when I think about it now, I didn't do anything in technology until probably 1998. But in the in the mid 80s, like, you know, there was a, there was a basic there was a programing language in a programing language called basic.
+
+And I learned it at school and it was very rudimentary. I mean, it was single line, you know, you could you could tell her to pick a number or pick the lottery numbers, that type of thing. So that kind of captivated me. And then just in general, you know, I got my first computer, which was an Amiga 500 in 1987 or something like that.
+
+And I was just I spent hours on that thing doing everything and anything. So I always had that sort of love tech. Um, and I think that was probably my first real experience was learning how to program using basic. And actually we used a version of it called BBC basic. Um, and then using, you know, that first Amiga 500 that just I mean, honestly just stick around.
+
+And I mean, I didn't do much of anything but just learn how computers worked. Um, so that was my my first real touch point with technology. And it fascinated me.
+
+
+00:06:43.760 — 00:06:45.280 · Speaker 1
+And then from there it just started. Yeah.
+
+
+00:06:45.280 — 00:08:14.200 · Speaker 2
+From there, like, you know, I grew up in a farming community. So like, you know, you know, and it was Ireland in the 1980s. There were no jobs. We had 12 to 14% unemployment. So you did whatever you could. And it wasn't a lot of money to buy technology. In fact, my older brother loaned me the money. I don't remember I ever paid him back to buy that first computer.
+
+Right. And so coming here and eventually I came here in 1994. The first job I had was I got a CDL and drove a truck. Right. I mean, so. And then I. And then I went to work first. It was probably too old to be a startup, but it was very like a startup. A company called Peachtree Software and I ran their distribution center.
+
+And then I got sort of because their distribution center had absolutely no tech. Like very little tech, I got involved and I tried like I didn't try. I actually built a whole bunch of tech with the IT team there to just automate everything that was going on. So like I just got sucked into it from the beginning, and I'm the type of guy that if no one's going to do it, I'm going to get it done anyway.
+
+And, you know, my wife will tell you, you know, in the late 90s, early 2000. You know, my day job was 7 a.m. to 5 p.m. running the distribution center. And then I stayed behind with the IT guys from five to 8 or 9 every night building tech. And we did that for years. So and then I just got recognized by it and they pulled me in.
+
+And, you know, I just ended up doing a little bit of everything. And all of a sudden I'm CIO. So it was a weird progression. Not one I ever expected.
+
+
+00:08:15.520 — 00:08:21.040 · Speaker 1
+It's funny, I've been asking people today what is the definition like, what is a CIO to you?
+
+
+00:08:21.280 — 00:08:22.720 · Speaker 2
+You know? Um,
+
+
+00:08:24.560 — 00:09:47.600 · Speaker 2
+so, you know, the pure definition is chief information officer. We're responsible for all data, all technology, all systems, anywhere in a company. That 20 years ago, ten years ago, even that was the definition. Like you own technology, I think now it's really it's grown so much now it's business partner.
+
+I can't make technology decisions. I mean other than pure infrastructure. But when we decide on applications, we decide on automation, AI. Business decisions have to drive what technology does. So I think more than anything, we have to be a business partner. We have to. We kind of live in this space between what the business, the business teams and the and the IT teams and the IT teams report to me and report to the CIO.
+
+But the business teams have to be our boss. They have to tell us what they need. Sure, we can push back and we can. Like. Gone are the days when the IT guys sat behind a closed door, a locked door, and they knew what was best because they believed they did. They didn't, but they thought I was. I was a part of that culture at one point where you kind of went, those guys are no, like those guys been in the business, no clue what they want.
+
+We'll give them what they need and we didn't have a clue. And as a result, technology to this day hasn't recovered from that reputation. Um, even though we're much more collaborative and we take our cues from the business. And I think that to me is I think with myself more as a business relations officer than a chief information officer, but I don't want to be called it bro.
+
+So.
+
+
+00:09:49.000 — 00:09:49.480 · Speaker 1
+Bro.
+
+
+00:09:49.680 — 00:09:50.920 · Speaker 2
+Bro. Yeah, I didn't think about that.
+
+
+00:09:50.960 — 00:09:51.440 · Speaker 1
+Yeah, bro.
+
+
+00:09:51.560 — 00:09:52.080 · Speaker 2
+Bro.
+
+
+00:09:52.600 — 00:10:02.360 · Speaker 1
+Um, for a young person who was interested in technology and following that career path, what does that career path look like? You know, after graduation, graduating high school to.
+
+
+00:10:02.400 — 00:10:35.360 · Speaker 2
+I wish I knew. I tell you, whatever I say is probably going to end up being wrong. But if I were coming out of college, first of all, with any sort of a degree in technology, I would just find what I'm most passionate about and go after it. And whether that's programing, because it is a fallacy to think that engineers and programmers go away, they don't.
+
+The job changes and what they do change is but I don't think they go away. I think it's still a very viable thing. So but whether it's programing, security is a massive area. You know, I
+
+
+00:10:36.480 — 00:12:00.560 · Speaker 2
+obviously I'm the CSO as well. Right. So there is a part of me that says, hey, if anything is never going to go away. It's cyber attacks. So there's definitely longevity in that career and there's opportunity in that career. So I would say go off to that. But I think more than anything, just find out what if you coming out of technology, if it's data, if it's programing, if it's security, if it's engineering, hardware structural, I find the part that interests you the most in go after that.
+
+And, you know, that's what I did 20 years ago. Like what I ended up being was a firefighter and I didn't even realize it. I just had good I had good general judgment. And I was able to go into any situation that was gone to shit and literally fix it. No pulling a lot of people to help me fix it, but but that's what I was good at.
+
+And as a result, I ended up having a broad spectrum knowledge of every area of it and how it relates to the business. And that's what a CIO needs to be. So for me, firefighting was I tried on it like I didn't realize it, but I loved it. I loved getting into a problem that was just gone to hell and fixing it. And find that, find what your passion would go after it, after the reputation on it.
+
+I think that's the best advice I can give, because I don't think anyone knows what those things are going to be. I would also say for anyone that get cutting edge as quickly as you can, they don't. Don't go into a corporation and learn what they do, because what they do is not going to be around two years from now.
+
+So go find out what you think they're going to do and learn that.
+
+
+00:12:01.280 — 00:12:04.880 · Speaker 1
+One skill that's not going to go away and agents can't replace is the firefighting right.
+
+
+00:12:04.920 — 00:12:19.160 · Speaker 2
+Yeah I mean it's right. It's like everybody needs a firefighter and I I'm lucky at Warner. I have a couple of guys who are really good at it and they do it and I help. Sometimes I have to stop myself getting stuck into it, but yeah, it's not going away.
+
+
+00:12:19.880 — 00:12:24.400 · Speaker 1
+My next question for you is a little bit of a transition. What are you helping build next?
+
+
+00:12:27.040 — 00:12:33.120 · Speaker 1
+So do you want to give me that little like what I'm building next is what I'm helping build.
+
+
+00:12:33.160 — 00:12:36.039 · Speaker 2
+Next is what I'm helping build next. I think
+
+
+00:12:37.160 — 00:14:43.800 · Speaker 2
+this is a really tough thing, right? So right now we're injecting AI into all kinds of business processes and functions. So I think the right way to answer what we're building next is we're looking at what we can do to make everyone's life a bit easier. And and I know it's kind of trite and cliche to say right now, we're not trying to get rid of human beings.
+
+We're not trying to get rid of people, but we're really not. What we're trying to do is say, how do we take the people we have who are really good at what they do and make their lives that much easier and make them more productive? On the on the, in the long term. So I think it's building technology that makes people get rid of the minutia that they deal with every day.
+
+And that's already starting. Like, for example, I can go in now, today and use Gemini to go. Tell me, what do I need to worry about today? What emails have I gotten overnight that I need to respond to? And rather than have to scroll through 500 emails that came in overnight, I get to 3 or 4 things I need to go do.
+
+That's the type of stuff we need to do. How do we automate a miserably monotonous process because everybody has to do that. For me, it might be going in and approving 20 contractors, you know. They're extensions, right? It's miserable minutia that you've got to do every day and someone has to do it. So if I can automate that process and get that out of the way, then I become more productive.
+
+Same thing for any sales rep, whether it's a fleet manager, whether it's any of the operators in our business. If I can get rid of, you know, booking loads every day, I've got to book 50 loads and I got to go in and type a number and click the book book. If I can automate that process, then all of a sudden they become more way more productive.
+
+And in the and in the context of doing that, I'm not going to say that the idea is not to help them lower headcount or help our business or how can it is, but what happens is the people who don't really belong go find something else to do. And, you know, there's natural attrition. And I think what most companies will do is find that point where natural attrition, people are great.
+
+I don't have to replace them because I've made everybody else done more productive. So I think that's a long winded answer to a very simple question, but I think it is making people's lives better is what we're doing next.
+
+
+00:14:45.240 — 00:14:48.760 · Speaker 1
+What is one thing Nebraska needs to get right to help that work succeed?
+
+
+00:14:48.800 — 00:14:52.880 · Speaker 2
+The startup community 100%. And we're doing great work, right?
+
+
+00:14:52.920 — 00:14:55.400 · Speaker 1
+So but give me that like one thing Nebraska.
+
+
+00:14:55.440 — 00:15:01.160 · Speaker 2
+I think the one thing Nebraska has to do to to what was it?
+
+
+00:15:01.520 — 00:15:05.520 · Speaker 1
+What is one thing Nebraska needs to get right to help your work succeed?
+
+
+00:15:05.880 — 00:15:46.360 · Speaker 2
+So I think the one thing Nebraska has to get right to help that work succeed is the startup community. We have to create this culture of innovation. We have to create this culture that people can be successful in the state of Nebraska. We have to have people believe that. So what we need is whether the coming out of college, whether they're coming out of high school kids, young adults getting into business have to know that if I decide to go out on my own, I'm going to get all the support that the local corporate community can give us, that the local government community can give us to the state government can give us.
+
+And that can be anything from legal help to monetary help, financial help to just expertise. We've got to get that right. And we're doing great work. We're getting there, but we've got to get it right.
+
+
+00:15:47.000 — 00:15:53.040 · Speaker 1
+Um, talk to me about Werner's relationship with startups, because you guys do kind of a unique thing. Yeah.
+
+
+00:15:53.400 — 00:16:28.039 · Speaker 2
+I think Werner's relationship with startups is unique, and part of the reason it is that belief. I expressed earlier that all the innovations happening in the star community. So that's the first thing. Like, I always look at it that I can go out and I can I'm a buy versus bill. I would run a biotechnology versus build it so I can buy our big platforms, our big applications.
+
+But there's always in every business there's a unique thing that has to happen that nobody else is doing or those platforms can't handle or we haven't yet built. And there are startups out there doing that type of work so
+
+
+00:16:29.040 — 00:16:57.640 · Speaker 2
+innovative they help fill those holes between the applications stuff, functionality. Things that the applications don't do. And then beyond that, it's. It's a little bit of the general community responsibility that we need to have as a corporation that operates in that community. We need to be ready to support the community.
+
+And in this case, for a technologist that is the startup community. So I think that's the part we have to get right. We're making great strides. It's improved tremendously even since I've been here. But we've got to do a lot more.
+
+
+00:16:58.400 — 00:17:10.560 · Speaker 1
+I've got four other kind of different directions we could go for this last question. We've got business growth workforce, cyber infrastructure and emerging technology. Is there one of those directions you'd love to go?
+
+
+00:17:10.920 — 00:17:13.079 · Speaker 2
+Um, probably cyber.
+
+
+00:17:13.199 — 00:17:15.640 · Speaker 1
+Okay. Because it's funny, a lot of people have been saying cyber.
+
+
+00:17:15.680 — 00:17:20.360 · Speaker 2
+Yeah. I mean, I think it's the one thing that's on everyone's mind. I mean, it's it's crazy at the moment.
+
+
+00:17:20.400 — 00:17:26.600 · Speaker 1
+What is one practical step every organization can take to strengthen trust in their digital systems?
+
+
+00:17:28.319 — 00:17:29.560 · Speaker 2
+Damn, you hit me.
+
+
+00:17:36.080 — 00:17:43.040 · Speaker 2
+I'm trying to think of a way not to answer that with a whole bunch of bureaucracy and nonsense and governance and compliance, which is important. But let me think.
+
+
+00:17:46.040 — 00:17:47.360 · Speaker 2
+So. Ask me again.
+
+
+00:17:47.640 — 00:17:54.520 · Speaker 1
+What is one practical step every organization can do to strengthen trust in their digital system? Okay.
+
+
+00:17:55.320 — 00:18:25.039 · Speaker 2
+All right. So I think the one step we could take to strengthen trust in all of our digital systems and platforms is training. Okay. It might seem counterintuitive, but but the reality is I'm not sure that we need to do. Most companies have probably got the right cybersecurity systems in place. They probably have the right people in place, are close to it, they probably have the right configurations, and they're always working on it and tweaking it.
+
+But I do think what happens is, and I see this all the time, we're not spending enough time training the large, the the
+
+
+00:18:26.040 — 00:19:15.280 · Speaker 2
+the employee base, the associate base On how to recognize an attack. Do you know that 95% of attacks in corporate America last year came through email, and that meant that they came to an end user like you or I, and somebody clicked on a link or did something in that email that they shouldn't have did that gave them access to our systems that they then exploited.
+
+So the training around how not to click on that link to recognize that link to be suspicious, and it's horrible that we have to train people this way to be suspicious of everything. Every phone call, every email, every interaction you get digitally from externally. They've got to be trained on how to handle that and we don't do enough for that.
+
+Plus, we could also get rid of email. We get rid of email. Nine out of ten problems go away. And I'm serious about that. Most people kind of laugh when I say that. But like email is the worst invention in the history of tech.
+
+
+00:19:16.120 — 00:19:18.280 · Speaker 1
+Let's go. Like, why do you think that is?
+
+
+00:19:18.600 — 00:19:23.200 · Speaker 2
+Well, think about it this way, right? Right. Now, first of all, leave this cyber,
+
+
+00:19:24.280 — 00:21:16.880 · Speaker 2
+leave the cyber aspect out of it. And every single person I get somewhere in the range of 2500 emails a day. You know how many I read? Maybe 40 of them. So what I've done is created a whole bunch of noise, clutter, network traffic overhead that I didn't need. Traffic coming into my building that I have to have cyber security examine a whole bunch of stuff that I have to wade through to figure out.
+
+Do I want to read it or not read it? Most of it. You don't want to read it. It's junk email. It's advertising. So it's just this massive drain on my day, on everybody's day. So that's the first thing. The second thing, when you look at it from a cyber perspective, this is the part that we have to figure out. If I took a bomb and put it in the lobby of the building and said, if anyone touches that, it's going to go off.
+
+How long would that bomb stay in the lobby of the building? It would be gone like that, right? But yet email has kind of the same impact. That bomb will destroy the building and kill a whole bunch of people. So? So mostly cybersecurity won't kill anyone. But if the bomb goes off, it destroys the building and the businesses can exist for at least a while.
+
+Email. We get all of these emails coming in every single day with all of these links. We get them like they get through our defenses, they change the links and it has the potential to destroy the business. And if it was anything else, including the bomb, we shut it down and we move it out. We don't put up with it, but we put up with email and we put it up because it people believe it's the only effective communication tool that we have.
+
+But we don't. We have safer. We have chat, which is encrypted, we have text which is not encrypted, but it's still at least safer. And even on a phone I click on a link. It can't do quite as much damage. We have phone calls. There are so many other ways. There's shared documents we can use, shared drives. We can use encrypted shared drives.
+
+We can exchange information in a hundred other ways versus the least secure way, which is email. So shut it down. I think we can shut it down tomorrow. You know what we would do? We would adapt.
+
+
+00:21:17.920 — 00:21:19.280 · Speaker 1
+I love that. That's a good take.
+
+
+00:21:19.320 — 00:21:23.360 · Speaker 2
+Can't be more take. Can't be more passionate about it than that. Okay, I say this all the time.
+
+
+00:21:23.480 — 00:21:33.320 · Speaker 1
+That was pretty much our questions. I would love if you give. You know. Uh, what do you hope is the one thing that people take away from the Tech Nebraska summit?
+
+
+00:21:36.680 — 00:22:18.040 · Speaker 2
+So what do I hope people take away from tech Nebraska? I hope what people take away from this summit is, first of all, all kinds of learnings. I'm going to give you more than one thing, right. But the second thing, and I think this is the important one, is that Tech Nebraska is a serious organization that can have influence on all of the areas.
+
+We're worried about legislative, you know, just training, security, etc.. So we're serious organization that can have an impact in Nebraska on the tech community. And I think we want people involved. We want them engaged. This is fantastic today. I mean, we're sold out. We had a waiting list. So we just want to keep up that momentum.
+
+And what we need from people coming out of this is to give us ideas and what we can do better in the future.
+
+
+00:22:18.560 — 00:22:18.840 · Speaker 1
+I love.
+
+
+00:22:18.840 — 00:22:19.040 · Speaker 2
+That.
+
+
+00:22:19.360 — 00:22:21.360 · Speaker 1
+Thank you so much, Darrah. All right. Anytime.
+
+
+00:22:21.520 — 00:22:22.920 · Speaker 2
+I hope I hope you got something reusable.
+
+
+00:22:22.960 — 00:22:23.280 · Speaker 1
+Oh. We did.
+

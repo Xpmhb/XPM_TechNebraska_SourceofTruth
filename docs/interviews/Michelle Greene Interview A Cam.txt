@@ -1,0 +1,198 @@
+Michelle Greene Interview A Cam.txt
+English (US)
+
+00:00:01.120 — 00:00:12.200 · Speaker 1
+Michelle, I'm excited to interview you for a little bit. I like it. Um, I'm going to go ahead real quick. Pull up some of these questions. Okay. Um, I want to go ahead and start with, would you say and spell your name for me?
+
+
+00:00:12.240 — 00:00:18.000 · Speaker 2
+Um, Michelle Green MICHELLEGEENE.
+
+
+00:00:18.320 — 00:00:20.880 · Speaker 1
+And what is your company and title?
+
+
+00:00:21.000 — 00:00:24.720 · Speaker 2
+Cardinal health, and my title is chief Information Officer.
+
+
+00:00:25.080 — 00:00:30.120 · Speaker 1
+And my first question for you is, is this a little silly? But who are you and what do you do?
+
+
+00:00:30.720 — 00:00:52.160 · Speaker 2
+So I want us to have the starting point. I was just having a conversation outside. I am Michelle Green. I want to believe that I am a good human. I am a great leader. I love my teams and the culture. And what I do for Cardinal is I make sure that we use the right type of technology to enable our businesses strategic objectives.
+
+
+00:00:52.840 — 00:01:02.760 · Speaker 1
+I love that. And how did you get in? When I ask you a question, you just try to rephrase it back to because we keep rolling through. But where did you get involved in technology? What was the start of.
+
+
+00:01:03.320 — 00:01:27.000 · Speaker 2
+The start of me getting involved in technology was way back when I had a job in a data administration department at Florida State University, and I tell people all the time, I don't know if I found technology or technology found me, but at the end of the day, that is how I got involved. Understanding data.
+
+Understanding technology is important, but I also quickly recognize that you have to understand the business as well.
+
+
+00:01:28.120 — 00:01:32.720 · Speaker 1
+I love that and what really piqued your interest about technology?
+
+
+00:01:32.920 — 00:02:02.680 · Speaker 2
+It piqued my interest of even then understanding how fast it's moving. Understanding quickly, too, that this is something you would never be out of work. Technology is something that is not going away. So many people are a little bit afraid of it too. So knowing that I can lean into something and that the more I understand it, or able to put it in terms that people can understand.
+
+I feel like I can be that bridge many times between the business side, the technology side, or just a regular person if they're afraid of the technology and how they can use it.
+
+
+00:02:02.720 — 00:02:04.600 · Speaker 1
+And remind me of your title.
+
+
+00:02:04.640 — 00:02:06.680 · Speaker 2
+My title is Chief Information Officer.
+
+
+00:02:07.360 — 00:02:11.000 · Speaker 1
+And Michelle, what does the chief information officer do?
+
+
+00:02:11.680 — 00:02:37.320 · Speaker 2
+Oh, we do everything. So a chief information technology officer is responsible for everything. When you think about plane technology platforms, you think about data, think about digital solutions, business enablement, all of these things. So from something as simple as someone's email all the way to us building a system that helps our patients and our physicians, that is what a chief information technology person has to do.
+
+
+00:02:38.080 — 00:02:44.480 · Speaker 1
+And if I'm a high schooler, what does that workforce journey look like? Or what does that career journey look like?
+
+
+00:02:45.000 — 00:03:29.160 · Speaker 2
+I think it depends on what you want to do. So if the aspiration is to move and to be a chief information officer or a chief technology officer, because people would use those interchangeably, starting with something like coding, maybe. But now in this world of AI and that's something I spoke about on stage, is that with AI, you can be a business person and know as much about AI as a technology person.
+
+So I think your career journey is what is it that you would like to do and then you back into it, understanding the type of experiences you need to have. We put so much emphasis on just making it linear. I want to be a doctor. I'm going to med school, but at the end of the day, if you want to be in the technology field, think about the experiences you need that will make you a better person.
+
+
+00:03:30.400 — 00:03:33.800 · Speaker 1
+My next question for you is what are you building next?
+
+
+00:03:33.840 — 00:03:46.400 · Speaker 2
+What am I building next? I am building an AI ready workforce. I am building better skills, competencies and capabilities so that not only my team is stronger, but I'm stronger as a leader.
+
+
+00:03:48.400 — 00:03:50.840 · Speaker 1
+Um, and you're from outside of Nebraska?
+
+
+00:03:50.880 — 00:04:00.080 · Speaker 2
+I'm from outside of Nebraska. I'm originally from Valdosta, Georgia. It's about three hours south of Atlanta, and currently I reside in Scottsdale, Arizona. That's where my home is.
+
+
+00:04:00.080 — 00:04:00.640 · Speaker 1
+Beautiful.
+
+
+00:04:01.000 — 00:04:02.080 · Speaker 2
+Beautiful weather.
+
+
+00:04:03.640 — 00:04:08.080 · Speaker 1
+From your experience nationally, what should a state like Nebraska focus on next?
+
+
+00:04:09.600 — 00:04:49.480 · Speaker 2
+I think it'll be similar as most. So much is growing in Nebraska if we talk about the actual city. I come here quite a bit for the Warner board, and every time I come, I see a new building going up, a new business popping up. I think there's opportunities. I feel like this is a bit of a hidden gem. I didn't have to come to Omaha a lot until I got on that board.
+
+I had been here previously but not spent a lot of time, and every time I come I feel I see something different. I think the construction that they're doing with their airport is going to be a game changer. So I think them building next is how are you making your city and your community more connected to technology, which is just going to make it unlimited for this area.
+
+
+00:04:51.680 — 00:05:03.520 · Speaker 1
+I've got four different types of questions for you, and you can go ahead and pick one. We have business growth workforce, cybersecurity infrastructure and connectivity and emerging technology.
+
+
+00:05:03.560 — 00:05:06.760 · Speaker 2
+I think cybersecurity and or emerging technology.
+
+
+00:05:06.800 — 00:05:16.430 · Speaker 1
+Let's do emerging tech okay. Um, what key questions do you ask yourself when deciding whether to adopt a new technology in your industry?
+
+
+00:05:16.470 — 00:06:06.990 · Speaker 2
+This is a fantastic question. The key questions we have to ask is if you recognize the landscape today, so many people are developing the same things. It's just got a different label on it, a different name. It's no different than going to buy a shirt or a pair of shoes might be both a pair of pumps, but different brands and designers, you need to understand what do you need?
+
+I think when you go in trying to adopt a technology just for the sake of it, you don't understand what you need and why you need it. That's where the confusion comes. So the questions we have to ask ourselves as our starting point is our requirements. How is this going to help us from our business objectives?
+
+And then you start partnership of how much the technology costs, what will it mean for total cost of ownership? But too many times we get struck by the shiny object syndrome. And if we're just looking at shiny objects, you will end up with a closet full of technologies that you don't even use.
+
+
+00:06:08.630 — 00:06:10.830 · Speaker 1
+I'm going to go into a little bit of a rapid fire mode.
+
+
+00:06:10.990 — 00:06:11.750 · Speaker 2
+I like rapid.
+
+
+00:06:11.750 — 00:06:24.350 · Speaker 1
+Fire. Okay, Um, what should CIOs and CTOs be consuming on a weekly basis for like right now, especially as technology changes? What types of resources and information should CTOs and CIOs be considered?
+
+
+00:06:24.390 — 00:06:55.150 · Speaker 2
+So I'm thinking any podcasts that are talking about technology, emerging tech leadership. And for me, being in healthcare, I am a big proponent of watching the stock market, watching all things that are happening like MSNBC, CNN, because there are so many things that are happening in the world that impact healthcare and our businesses directly.
+
+So I just think as CIOs and technologists find something you consume that helps you with the world and business and find something you're consuming that helps you with technology.
+
+
+00:06:56.190 — 00:07:03.070 · Speaker 1
+Second one is what is some leadership advice that you might have for emerging leaders?
+
+
+00:07:03.270 — 00:07:21.790 · Speaker 2
+Do not peanut butter spray at how you lead at the end of the day. Be focused enough that you know your people and how they need to be led. You will only get the most out of people if you're leading them in a way that they can respond to and they can be motivated by. If you think you can lead eight direct reports the same.
+
+You are sadly mistaken.
+
+
+00:07:23.590 — 00:07:27.550 · Speaker 1
+What is a myth about AI adoption right now?
+
+
+00:07:27.830 — 00:07:50.150 · Speaker 2
+That AI is going to solve everything and it may not. You do not need to do AI for AI sake. You need to be clear that if you're adopting AI, why you're adopting it, and how it's going to have an impact. And do not forget the change management that goes around all of that, because you've got people that are super excited about it and people that are scared to death of it.
+
+So you've got to find something in the middle to be able to help the adoption go smoothly.
+
+
+00:07:50.350 — 00:07:57.550 · Speaker 1
+If I'm a high schooler just getting ready to transfer into college, what are some things that I should be thinking about?
+
+
+00:07:58.430 — 00:08:32.390 · Speaker 2
+First of all, trying to have a little clarity about what you would like to do. I think there's so many things you can try that will be the time to start trying, but just think about how quickly college goes. The more that you can narrow that down and have at least a range of where you would like to be, I think that becomes pretty helpful for you.
+
+And many times I think people have an idea what they would like to do, but sometimes they're discouraged that either they don't want to put in the work to get it done, or they're afraid of it failing. Don't be afraid. Don't be afraid. Be willing to lean into it and at least give it a good try.
+
+
+00:08:33.430 — 00:08:44.630 · Speaker 1
+And you gave a talk today as the keynote. What was the main message that you'd like people to take away from the Tech Nebraska summit? And if you could give me the one thing I would like people to take away from the technology.
+
+
+00:08:44.670 — 00:09:08.390 · Speaker 2
+Okay. One thing I would like people to take away from Tech Nebraska Summit is that technology is no longer a singular pillar at the end of the day. Technology, business adoption, transformation all go together. And I always leave people with ask for what you want, but be prepared to receive it. And I think that will be the foundation of building what's next?
+
+
+00:09:11.070 — 00:09:16.670 · Speaker 1
+Michelle, thank you so much. Is there anything else that you would like to maybe leave us with or any other tidbits of help?
+
+
+00:09:16.710 — 00:09:17.350 · Speaker 2
+I think we got it.
+
+
+00:09:17.390 — 00:09:19.550 · Speaker 1
+Yeah, we touched on a lot. I like it so much.
+
+
+00:09:19.910 — 00:09:20.990 · Speaker 3
+This was the easiest part.
+

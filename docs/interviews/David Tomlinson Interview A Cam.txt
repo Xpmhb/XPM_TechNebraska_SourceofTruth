@@ -1,0 +1,348 @@
+David Tomlinson Interview A Cam.txt
+English (US)
+
+00:00:00.880 — 00:00:03.320 · Speaker 1
+Do you have? What was your, uh, talk about?
+
+
+00:00:03.600 — 00:00:12.680 · Speaker 2
+Uh, we talked about how companies are migrating from piloting AI to actually operationalizing it and making it part of their day to day.
+
+
+00:00:12.720 — 00:00:14.560 · Speaker 1
+So how are we actually getting value?
+
+
+00:00:14.600 — 00:00:19.480 · Speaker 2
+Yeah, yeah. And justifying that to our boards and to our CEOs. So that's always.
+
+
+00:00:19.480 — 00:00:39.080 · Speaker 1
+Good. Yeah. Which is sometimes, you know, I feel like recently um, I'll try to like make a document or something with the AI tools and I'm like, I just did this by hand. Yeah. You know. Yeah. Get into that loop. You're like, um, I'm gonna let me try this, but, um, ready to go? Yeah. All right. Um, can I go ahead?
+
+And how do you say and spell your name for me?
+
+
+00:00:39.120 — 00:00:44.200 · Speaker 2
+Yep. David Tomlinson. Uh, Tomlinson.
+
+
+00:00:44.440 — 00:00:48.200 · Speaker 1
+And then what is your role and organization?
+
+
+00:00:48.240 — 00:01:01.940 · Speaker 2
+Yeah. So I am the CIO at schooler. We're a agricultural supply chain company. So we deal with commodities and animal products, and we feed, uh, Feed mills, dairy, things like that.
+
+
+00:01:02.980 — 00:01:08.540 · Speaker 1
+This next question is kind of silly, but, uh, you know, it's. Who are you and what do you do?
+
+
+00:01:08.580 — 00:02:22.960 · Speaker 2
+So, um, you know what? I honestly, I love technology, and so I love seeing how we can use technology to move enterprise initiatives forward. You know, I've, you know, I've grown up in the technology space. I have been there for 25 years. I started in the in the startup ecosystem, and I saw a lot about how quickly technology can move.
+
+Um, and then eventually moved into Raska, um, and kind of got out of that, that startup and into, you know, larger companies focusing on technology. Now at schooler, though, it's been really exciting because working in agriculture, there's just such a huge opportunity to change the way we do things.
+
+And, you know, you think about grain trading. Grain trade has been around for 10,000 years, right? It's been. It's a long, long industry. And, you know, to be able to start to change how we do things every day. Uh, and, you know, we we operate on economies of scale, so, you know, thin margins, but you move a lot of grain and that's that's really what we do.
+
+So anywhere we can drive efficiencies, use technology better. We're better off where we go.
+
+
+00:02:23.480 — 00:02:35.120 · Speaker 1
+I love that. Yeah. It's funny that you say 10,000 years, right. Like, you know, trading in general is just, um, we had, um, uh, James Leonard talking about Pompeii and how, you know, we had everything they did except for. We have phones.
+
+
+00:02:35.160 — 00:03:24.580 · Speaker 2
+Yeah, yeah. Yeah, exactly. I mean, you know, trading food is one of the things that we've always done since, you know, humans were started walking on the face of the earth. So, you know, it's just it's evolved so much, you know, really over the last 100 years. But then you think of over the last ten years and five years and where it's now going to go with AI and and you know, it's it's it's finding the right people.
+
+It's a lot of logistics. Right. Whether it's truck, whether it's rail, whether it's barge, you know, you got to get food, you got to get grains everywhere in the in the world. And so it's complex. And so using AI, using technology to optimize routes or you know, whatever that is. Right. It's a it's just a big opportunity.
+
+It's just exciting to get to work in an area that has that much potential change coming forward.
+
+
+00:03:25.020 — 00:03:40.100 · Speaker 1
+I'm excited to get into that, honestly. Um, the next thing though, if you want to, if, as I asked the question, if you could like repeat that back, my next question is like, what are you passionate about? And then you can kind of lead with I'm passionate about, okay, so what are you passionate about?
+
+
+00:03:40.140 — 00:04:17.750 · Speaker 2
+Um, so I am very passionate about just solving problems. And I think when, when we talk about technology and we talk about what are the things that we need to be doing, you know, a lot of times you can get focused on something that sounds cool or it would be a good experience, but at the end of the day, it's got a it's got to drive value, it's got to solve problems.
+
+And so, you know, it's just fun to go and see a challenge that somebody is having a slowdown, a bottleneck, whatever that is, and then think through. All right. What can technology do to solve this. And a lot of times it's not just technology. It's
+
+
+00:04:19.030 — 00:04:48.030 · Speaker 2
+it's process. It's people. It's it's workflows. It's automation, whatever that is. It's it's always fun to go tackle those challenges. Right. I think we all like puzzles, right? We like puzzles because it challenges our mind and it gets us to think about things. Technology is no different. Right. You got a puzzle of the things that people want to accomplish, and then you just start putting the pieces together, and eventually you have a solution that answers their need, maybe gives them a new capability.
+
+Things like that.
+
+
+00:04:49.750 — 00:04:57.050 · Speaker 1
+What was your first, like exposure to technology. And how did maybe your career go into the technology direction?
+
+
+00:04:57.090 — 00:05:15.970 · Speaker 2
+Yeah, so I'll say this. I had an older brother that was in technology and he loved what he did. You know, you could tell that he had a lot of excitement about it. And so as I graduated from high school and started getting into college, technology was one of the first things that I wanted to do. And so I,
+
+
+00:05:17.090 — 00:05:21.210 · Speaker 2
+I got lucky. I was actually doing valet parking one night and, uh,
+
+
+00:05:22.690 — 00:06:09.189 · Speaker 2
+I'll just say a guy that comes in often where I was at, he came out, saw that I was studying computer science. He was like, hey, I own a computer science, or I own an engineering company. Come work for me, right? So I show up the next day, I think I'm going on an interview, and he walks in and he's like, hey, here's the guy.
+
+I told you that I'm hiring to the CFO. And I was hired, right? And so I got really lucky just being in the right place, right time. You know, uh, you know, a lot of times it's all about who you know, And so I got my first exposure to, uh, building programs, uh, there and then. I've been fascinating, fascinated with it ever since.
+
+And, you know, the one thing is, whether it's older technology or newer technology, still a lot of it's still the same principles, right? You know, I started on RPG and IBM
+
+
+00:06:10.230 — 00:06:30.630 · Speaker 2
+mainframes and, you know, at the time I wanted to get to more object oriented and things like that. But, you know, at the end of the day, it's still back to what we talked about earlier, solving problems. Right. And what are the challenges? You know, however you're you're thinking about solving those issues.
+
+Technology is just a great way to challenge your mind and challenge yourself to be able to go and accomplish new things.
+
+
+00:06:31.550 — 00:06:43.470 · Speaker 1
+I love that, you know, kind of talking about your story, you getting into technology, what's maybe some advice you would have for, um, you know, young leaders today kind of entering into the workforce.
+
+
+00:06:43.550 — 00:08:07.030 · Speaker 2
+Yeah. So advice that I would give to, um, Young leaders today is really just be open to new opportunities as they come. Right? And I think we all we all think we know what that ideal position is or really what we're what we're looking for. But at the end of the day, just get in and start making an impact. And a lot of times where you start is nowhere near where you finish.
+
+Um, I've had the opportunity to work for a lot of people that, you know, quickly moved me into new areas and new areas like, you know, you you get comfortable, you like what you do, and then all of a sudden you're, you're moving on to something next. And, and what I would say is embrace those opportunities right there, giving you an opportunity to go learn new skills.
+
+The more you understand about the total ecosystem, the better off you are, right. You think of manufacturing, their sales, their supply chain. There's research and development, right? When you understand the entire picture, just think how much better you can go solve issues. right? And there's upstream and there's downstream.
+
+And knowing all of that is so good for you personally, for your career, for the companies that you work for and for the future companies you're going to work at. Right? Because you've seen it. You've done it. All experiences are transferable. And so, you know, take those opportunities to learn new things and don't be set.
+
+This is the direction that I got to go.
+
+
+00:08:08.110 — 00:08:16.430 · Speaker 1
+On kind of that same note, what are some of the emerging skills that we're seeing that are very important today that you're looking for in your own employees?
+
+
+00:08:16.430 — 00:09:13.970 · Speaker 2
+So, um, so obviously there's all kinds of new technologies that are helpful, whether that's Python or better leveraging Copilot. You know, we're a cloud shop, so there's a lot of work there. However, what I've learned, I can teach people any of those, right. We've had a really we've had a great streak of bringing in new developers from college, very green, but they're able to learn quickly.
+
+The one thing about each one of those. They were curious, right? They wanted to learn how to do things differently. They they had energy to go and learn how to do something and solve problems. They. There's this innate motivation for them to be able to go after things like that. And so that's what I tell my team all the time.
+
+Let's go find somebody that I don't care. Young or old, whatever. Doesn't matter to me. But if they're curious and want to really go after it, we can teach them the technologies at this point.
+
+
+00:09:14.170 — 00:09:27.330 · Speaker 1
+Yeah, I love that. Um, my next question here is more on the lines of the theme of of today's tech Nebraska summit is what are we building next? And, uh, what are you helping build next?
+
+
+00:09:27.370 — 00:11:45.740 · Speaker 2
+Yeah. So so for me, when I'm trying to help build next is I'd say there's two levels to that. There's, um. What are we what are we trying to build for the company that I work for? For schooler. But just as important as. What are we building for the Nebraska ecosystem? And one of the one of the best things about tech Nebraska is truly is the ecosystem and the connections, right?
+
+When I have questions, problems, challenges, just things I'm going through, I have a fantastic network of people to go out and ask, hey, how are you doing this? And and a lot of that is not like I even have to ask the question generally, what's top of mind to me is also type of mind to them. So when we when we are able to get together, whether that's for a tech Nebraska meeting or it's just a happy hour, we end up talking about things that really are impacting all of us.
+
+And so just through that dialog, hearing what other people are hearing you, you start to get help to solve other things. And I think that's important to know because that truly is what we want to build. We want to build a tech ecosystem here in Nebraska that supports each other, that grows. Right. You know, a rising tide raises all ships, right?
+
+And for for a lot of the companies here in Nebraska, the higher we raise that talent bar, the better people that we're going to get to help us. And we know every business comes back to its people. I love how well Tech Nebraska has come together so fast, has built a network. I mean, you look outside here, 500 people, all of them making new connections, right?
+
+It's impossible not to make new connections. And those connections will help all of us as we as we go. So I'd say when you think build next, it is building that that tech ecosystem for schools specifically is there's so much opportunity to bring new capabilities. And I get really excited of how fast we can do things today versus how fast it used to take us to do things.
+
+I mean, we've taken months down to weeks and weeks down to days. And, you know, I talked about this in my panel. One of the things that I've noticed the most and you talk about not just in it, but across our business partners with AI, the the bar for
+
+
+00:11:47.020 — 00:12:15.660 · Speaker 2
+the art of the possible has raised right. I think for far too long we've been constrained with how long we think it would take to build something, how expensive it would be, how many resources it would take, whether that's money or people. And so a lot of times we didn't bring those ideas forward. Today, when you look how fast you can do things, people are coming up with all kinds of crazy ideas, right?
+
+And I love them. And so, um, the, the so whether it's great creativity or just raising the bar on the art of the possible,
+
+
+00:12:16.700 — 00:12:23.380 · Speaker 2
+we as a company will be better because everybody can now brainstorm more around new solutions that we can go after.
+
+
+00:12:24.140 — 00:12:29.220 · Speaker 1
+Yeah, a lot to unpack in that one. Yes. Yeah, yeah. It's cooler. It's cooler. Correct.
+
+
+00:12:29.340 — 00:12:31.220 · Speaker 2
+It's cooler. Yeah. You're cooler was cooler.
+
+
+00:12:31.260 — 00:12:32.420 · Speaker 1
+Cooler was cooler.
+
+
+00:12:33.540 — 00:12:44.480 · Speaker 1
+And then you have Tech Nebraska involved in their, um, kind of the second bullet point is, uh, what is one thing Nebraska needs to get right to help that work succeed?
+
+
+00:12:45.960 — 00:14:07.460 · Speaker 2
+Okay, so one thing Nebraska needs to get right in order for that to succeed. So so Naaman, just one is tough. Um, I do say we have to have an ecosystem that promotes the collaboration, and all of us working together to be better as a group. Right now, we all have our individual goals to make the companies we work for better, but I do when when Werner gets better, I do get when, when Kiewit or HDR or when they get better.
+
+Right? Because as they bring in new talent, um, people will see that, you know, things like that. And so, you know, you get that ecosystem. It's got to be policy friendly. It's got to be, um, an ecosystem that supports both the the larger companies as well as the startup companies, right. As technologists, we we all have different types of companies we want to go work at.
+
+And you got to have a little bit of both. And then a lot of times you work at a small company for a while. You want to go work at a big company. When you work at a big company for a while, you want to go back and work in a small company. Right. We feed off of each other. And so, you know, it's got to be a continue to be a state that has a very tight, uh, technology community so that we can share best practices, share talent, just share wins and losses and so that we can all get better and learn off of each other.
+
+
+00:14:07.980 — 00:14:16.540 · Speaker 1
+Yeah, I love that we have a couple different directions for these next questions. And I'm just going to kind of list off five different directions. And we can kind of choose one.
+
+
+00:14:16.580 — 00:14:17.220 · Speaker 2
+Okay.
+
+
+00:14:17.780 — 00:14:24.740 · Speaker 1
+We have business growth workforce development cybersecurity and trust a lot of people pick cyber today.
+
+
+00:14:25.060 — 00:14:27.220 · Speaker 2
+Okay I won't I won't pick that one.
+
+
+00:14:27.260 — 00:14:33.280 · Speaker 1
+So for is infrastructure and connectivity. And then five is emerging technology.
+
+
+00:14:33.360 — 00:14:34.400 · Speaker 2
+I'll go. Gross.
+
+
+00:14:34.440 — 00:14:47.920 · Speaker 1
+Okay, great. Um, number three, uh, business growth. How can Nebraska make it easier for companies and traditional industries to adopt or scale new technologies?
+
+
+00:14:48.480 — 00:14:50.680 · Speaker 2
+Okay, so how can Nebraska.
+
+
+00:14:50.800 — 00:14:57.640 · Speaker 1
+Um, how can Nebraska make it easier for companies and traditional industries to adopt new technologies?
+
+
+00:14:57.680 — 00:17:10.350 · Speaker 2
+Okay, so so, uh, Nebraska can make it easier for traditional companies to adopt new technologies by, again, building that partner ecosystem so that we can start learning from each other. Right. You know, I'm in agriculture. I do consider that a more traditional, um, company. Now, luckily there's other there's a lot of other ag companies and I have really good networks with them, but it doesn't really just stop at that.
+
+Right? You know, there's oil and gas trading. There is a supply chain, um, with with Union Pacific and Warner. There's you know, there's a lot of different parts to every job that we do. And so, um, you know, when you when you take a step back and you think through who is in my network and who can help me better understand the art of the possible or new ways that people are solving problems, you make those connections, and then you can start learn from each other and just give you ideas.
+
+Hey, here's something that I should go try in my area, right? You know, me and another company, we may we may transport products different ways, but a lot of the same principles are the same. So learn from each other. Um, look at the technologies that they're using. Um, try to try to take those learnings and apply them to where you're at.
+
+Even if it's not a one for one, you're able to do that. You're in a good spot. You know, the one great thing about Nebraska and you compare that to some bigger states, is we still very much have a tight IT community. Now. It would be awesome if we can start getting and seeing more people outside of the Omaha Lincoln area.
+
+And we're trying to we're trying to do that through tech Nebraska. But, you know, whether you're in Kearney or County or Scottsbluff or, or Grand Island, there's no reason we can't be collaborating with them the same way we are with somebody in Lincoln. Right? You know, you just got to be able to make those connections so that you understand who is in your sphere of influence and then be able to start reaching out to them and learning.
+
+You know, it's hard to do like a statewide education thing because it's not always applicable. Right? When you make the connections and you can talk through each other, how we go solve some of these, that's where you start to get the wins.
+
+
+00:17:11.270 — 00:17:14.910 · Speaker 1
+That I'm going to ask you. A few like rapid fire.
+
+
+00:17:15.230 — 00:17:15.750 · Speaker 3
+All right.
+
+
+00:17:16.030 — 00:17:29.010 · Speaker 1
+Okay. And really these are going to be kind of like short clips that we'll put on the socials. Right. So um, the first one is what are three resources that emerging leaders should maybe be consuming in the technology space.
+
+
+00:17:29.050 — 00:18:08.770 · Speaker 2
+Okay, so three leaders, three resources the emerging leaders should be consuming in the technology space. So number one, they should be listening to podcasts right. There's new information that comes out every day. You know a lot of them have cool stories. So they're very interesting to listen to. But you learn a lot from those.
+
+And so pick your poison, whatever it is that fascinates you as far as technology goes, whether it's AI focus or cybersecurity focus, it doesn't matter. Uh, learning from people that are doing this and podcasting about it, that's one great resource. Leverage your network. That's to me, that's still the most important.
+
+You got to be able to learn, uh,
+
+
+00:18:10.330 — 00:18:56.670 · Speaker 2
+reach out and compare notes and see what else. And then the last thing is just use the technology itself. Right. Like getting an answer or at least a starting answer to a problem. Today is so much easier than it used to be. Right. And with whether it's its copilot or ChatGPT or Claude. You can ask it the question.
+
+You can give it the, the, the background of of why you're asking the question and the types of answers you need. And you get a great start. And so whether that's learning how to program and build a new application in cloud or it's how to build some a recursive loop, whatever that is. Right. The technology can help you build technology.
+
+And so you got to embrace it. You got to use it. You got to just continue to better your own skills at using it.
+
+
+00:18:58.230 — 00:19:07.590 · Speaker 1
+What is one takeaway that you would you hope that what you hope that attendees at the Tech Nebraska summit take away?
+
+
+00:19:07.910 — 00:19:49.730 · Speaker 2
+Yeah. So one one takeaway that I would hope every attendee takes away is we're trying to make the entire Nebraska ecosystem better. And, you know, a big thing of what tech Nebraska focuses is on policy, but it's also about bringing people together to make sure that we're focused in the right area. And so, you know, lean in, uh, know that there's a group out there fighting to make technology better.
+
+When technology better is better, you can better leverage it within your company, and your company can advance and grow. So, uh, just know we're part of an ecosystem to really make the the whole thing better not just focus on a couple policies or something like that.
+
+
+00:19:50.090 — 00:19:54.090 · Speaker 1
+I love that. Do you have any, um, like, actual podcasts that you listen to?
+
+
+00:19:54.650 — 00:20:31.590 · Speaker 2
+Um, you know what? Honestly, I go back and forth, I'll go and I'll look at, you know, there's a founders one. There's there's all kinds of different ones that I go after. I can't say there's anyone that I religiously listen to. A lot of it is I'm reading an article, I see a podcast, so I'll pop in and listen to it.
+
+So, you know, there's it's it's I'm all over the board, both technology and on technology I love history, I love, uh, you know, even podcasts on the Dallas Cowboys. Who knows what I'm listening to. But you know, the the thing about them is they're always curated and are on a specific topic. So whatever is top of mind.
+
+That's what I go after.
+
+
+00:20:32.070 — 00:20:44.150 · Speaker 1
+This is kind of a riff on this last one, but because we actually have a client that works in the ag space, I'm just curious, um, what are maybe three of the most interesting technology developments happening in AG?
+
+
+00:20:44.670 — 00:20:46.750 · Speaker 2
+Um, okay. So, uh,
+
+
+00:20:47.830 — 00:22:03.320 · Speaker 2
+the three of the most interesting, uh, topics that are happening today in AG number one, it's all about what happens on the farm. So you think about precision ag, whether that's what John Deere is doing or what Valmont is doing, you know, with C and spray drones to be able to pinpoint different parts. I think that's one of the biggest opportunities.
+
+If we can increase yield, everybody wins across the board. Um, another big one is around safety. And you think of like the work that grain weevil is doing, right? One of the last things we want is people going inside of a bin. Grain weevil goes and solves that. And so whether it's whether it's that, whether it's an audio video monitoring to, hey, there's an alert if somebody and goes into a bin without a supervision or there's somebody that's doing something that's not up to protocol.
+
+Right. There's I love to see not only as a focus on yield, but it's also a focus on safety, because that's going to be one of the biggest things. And then the last thing I would say is logistics, right. Lots of commodities a lot of yield. We got to move it somewhere. And the more we can optimize that, the more we can make it easier for to transport that, whether it's short or long hauls.
+
+Optimizing transportation lanes is going to be one of the biggest things that we do as we go forward.
+
+
+00:22:04.320 — 00:22:16.920 · Speaker 1
+You just drop some some knowledge bombs on us today. We talk about kind of the workforce development to kind of a little bit of your journey, and then also some of those rapid fire questions. Is there anything else you'd like to leave us with today?
+
+
+00:22:17.740 — 00:22:18.180 · Speaker 2
+Mhm.
+
+
+00:22:21.780 — 00:23:00.060 · Speaker 2
+Yeah. I guess if I were to leave you with one, with one thing is a lot of us we face very similar types of problems. Right. You know safety is a big focus for every company out there. Right. Uh increased revenue, increased margin, increased yield. That's a big. That's a big opportunity. Right. And so, you know, it's easy to kind of get stuck in thinking, well, I'm AGS do I do it one way.
+
+But I've been around enough companies now. You know at the end of the day everything is transferable. And so expand your network. Keep keep knowing um, keep growing where you want to go because those connections will come back to help you.
+
+
+00:23:00.700 — 00:23:10.900 · Speaker 1
+You talked a lot about connections and relationships. What is one way that somebody can actually, um, like, build a relationship and invest in a relationship?
+
+
+00:23:10.940 — 00:24:04.320 · Speaker 2
+Yeah. So so I'll say there's one way to get to build a relationship is just get involved. Things like tech Nebraska go to networking events. When you get calls from vendors that are trying to pull groups together. Go do those things. And you know, I got very lucky that I worked for a large company that has a lot of it people across the Omaha, Nebraska area.
+
+But a lot of it still comes down to going to events like this, right? It's not just building the relationship, it's keeping it going. Right. And so it's great to go out and see, I'll just say the number of friends I have across the Omaha tech ecosystem. Um, it's it's I just enjoy days like this so much because I get to catch up with everybody and see things.
+
+And we talked some business, we talked some, you know, some play. But it's always a great way to stay connected and know that, hey, if I got a question for somebody, I got a network to reach out to and ask them.
+
+
+00:24:05.040 — 00:24:06.440 · Speaker 1
+Awesome. Thank you David, so much.
+
+
+00:24:06.480 — 00:24:06.880 · Speaker 3
+Okay.
+
+
+00:24:07.200 — 00:24:11.080 · Speaker 1
+Sit down with us in chat. And yeah, we got a lot of good stuff here. So we appreciate.
+
+
+00:24:11.080 — 00:24:13.160 · Speaker 3
+You. Okay, well I am I am.
+
+
+00:24:13.160 — 00:24:14.320 · Speaker 2
+Glad that we were.
+

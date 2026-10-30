@@ -1,0 +1,328 @@
+Brian Zimmer Interview A Cam.txt
+English (US)
+
+00:00:03.200 — 00:00:33.640 · Speaker 1
+Good to see you again. Yeah. Good to see Hunter. Yeah. Would you go ahead and say and spell your name for me? Yep. Brian Zimmer. Brian z, I'm MER. And then what's your title? Yeah, I'm co-owner and chief strategy officer at Don't Panic Labs. Cool. And let me pull up my questions here. What up up bar question question.
+
+Here we go. Uh, Brian, um, who are you? What do you do? Oh, gosh. Good question.
+
+
+00:00:34.680 — 00:00:35.400 · Speaker 1
+So,
+
+
+00:00:37.000 — 00:01:27.200 · Speaker 1
+and before we dive super deep, um, try to, uh, reword the question back to me, too. Okay. Yeah. So I am Brian Zimmer. I do x, y, and Z. That's just kind of a nice opening for us. Um, and then when I ask you those other questions, you can just kind of restate it back. I might go down a rabbit hole and ask you, like a tough one, and we can just riff, but yeah, do your best to kind of give us a good, like answer and then go into it.
+
+Yeah, but you want me to repeat the question a little bit, so that way I can stand on its own. Okay. Nice and buttery. Yeah. Yeah. You bet. So who are you and what do you do? Yeah. I'm Brian Zimmer. I'm our chief strategy officer. Don't panic labs. And my job is to work with our partners to help them bring their visions to life.
+
+So I get to work with everybody from just a startup founder doing the solo thing all the way up to publicly traded companies to help them explore what's nest next, how they might solve problems and what they might create.
+
+
+00:01:28.480 — 00:02:26.960 · Speaker 1
+We had an interesting story when we were getting coffee at the at the mill, and we were talking a little bit about how you got into technology. So how did you get into technology as a career? Oh great question. Um, my journey with technology actually started back on the farm in rural Nebraska. I grew up on a farm by Bellwood.
+
+My dad was a farmer. I spent time farming with him, but my grandpa had a Motorola service center by Columbus. And obviously they did all kinds of interesting stuff with technology. And so I got to spend some time there, got to learn from them as they were working on their radios and doing all the electronic stuff they did.
+
+But then as computers became a bigger part, I got a chance to help at my grandpa's business there to work on their computers. And pretty quickly, other people in the community needed help with their systems as well, right? Things, setting up network servers, all of that kind of stuff. And so back in high school, I found myself working for a variety of businesses there in the David City in Columbus area, just from word of mouth.
+
+I then went to the university and continued to learn and advanced on that career.
+
+
+00:02:28.120 — 00:02:29.880 · Speaker 2
+What are you passionate about?
+
+
+00:02:29.920 — 00:02:58.080 · Speaker 1
+Oh man, I am passionate about people actualizing themselves in whatever way they choose to do that. I think technology is a fascinating way of solving problems and creating value and making change in the world. And so that's why I found myself here, and I love working with people that have some vision for what they want to change, what new thing they want to try, and helping them figure out how to get there, whether that's one of the partners that we're working with or frankly, all my team members that don't panic Labs.
+
+
+00:02:59.400 — 00:03:05.130 · Speaker 2
+And talk to me a little bit about your role as Chief strategy officer.
+
+
+00:03:06.290 — 00:03:08.530 · Speaker 2
+What does a chief strategy officer do?
+
+
+00:03:08.570 — 00:03:59.370 · Speaker 1
+Yeah. You know the chief strategy officer title, it's an interesting title because it implies that I'm trying to think about the future. And what we're working on is don't panic Labs. But, you know, in reality, I get to do a lot of different things to help think about how to move us forward. You know, we're in a moment of change right now.
+
+Software engineering has been really disrupted and changed, and there's all kinds of opportunity there. Professional services has been disrupted and changed. Lots of opportunity there as well. We said at the intersection of those two things. So it's been a particularly exciting time for myself because I can spend quite a bit of time, you know, looking at challenges, looking at opportunities, thinking about what we can do differently, bringing in resources to our team and helping our team think about these things.
+
+Because in my role, it's really not about me figuring things out, but it's more about me helping all of us figure things out as a team.
+
+
+00:04:01.490 — 00:04:11.610 · Speaker 2
+If I was a young person in high school looking to get involved in technology and like, look at a career, to maybe become a chief strategy officer one day. Um, what does that career path look like?
+
+
+00:04:11.650 — 00:04:50.730 · Speaker 1
+Yeah, I think the path to like, a chief strategy officer or frankly, path to a lot of different roles right now is about having breadth of knowledge and not just necessarily real depth in any one area. And so the advice I would give to young people is to try to rack up experiences in a number of different domains.
+
+Try to do some things with technology. Try to do some things in business. Try to do some things in operation. Because I think a lot of the innovation in the future is going to come from stitching those things together. And you have to know enough about all of those domains to see some of the patterns, connect some of the dots, and frankly, to work with all the team members in those areas together to accomplish those things.
+
+
+00:04:52.210 — 00:05:06.890 · Speaker 2
+Yeah. That's great. I love I love that answer. Um, before we dive into these next set of questions, we were having a fascinating conversation the other day at The Social About the future of work. Oh, yeah. And so, what do you think the future of work looks like?
+
+
+00:05:06.930 — 00:05:07.690 · Speaker 1
+Yeah,
+
+
+00:05:08.850 — 00:07:17.660 · Speaker 1
+the future of work right now. What's fun about it is it's being written, and it's being written by leaders in our organizations. I think too often we resign ourselves in this moment of change to say the change is happening elsewhere. It's being decided by someone else. But in this moment, yes, there's always going to be capabilities.
+
+But adoption is different and there's always a difference between capabilities and adoption, and there's reasons for those differences. And those reasons are decided by the leaders of organizations and the people in those organizations locally. And so as we think about what the future work holds, I think that's up to us to decide.
+
+And in this moment, I think we have a real chance to work on a problem that's just been a vexing problem in society for the last 30 years, and that's employee engagement. Um, back when I was at the university, I connected with Gallup's research that basically said only about 30% of our workforce is engaged at any given time.
+
+And all I could think was work is a huge part of any of our lives, and there is all kinds of positive benefits to the employee and positive benefits to the organization to have an engaged workforce. And it's just a tragedy that we're only at 30%. And that's been stuck for the past 20 to 30 years, kind of in that range.
+
+And so in this moment, as we think about like the future of work, I think this is the opportunity for leaders to redesign what work is, because work design is a big factor in employee engagement. And so right now we have a chance to actually redesign it with some intention. And so if we think about some different models of how we can design it, I like Daniel Pink's personally of like his factors of motivation, autonomy, people's ability to decide what they're doing.
+
+Mastery. Can you get really good at the things you want to get good at and purpose? Are you connected back to the purpose? I think if we have some design criteria like that, we can rethink what our jobs, how what is the relationship between a human and AI. What is the human relationship between human and technology?
+
+And redesign it in a way that we actually enjoy our days. And humans can be uniquely human. And I think this is kind of that breakthrough moment where we have a chance to redesign it in a way that we could have larger portions of our workforce engaged.
+
+
+00:07:18.740 — 00:07:36.460 · Speaker 2
+Yeah, that's great. And we could go into so many different directions to just in the actual future of work with agents and teams. And we had a great conversation about, um, team breakdown a little bit. So as teams are starting to work and integrate AI and agents and things into their teams, what are some things that they should think about?
+
+
+00:07:36.500 — 00:07:37.819 · Speaker 1
+Yeah, I think
+
+
+00:07:39.180 — 00:07:43.540 · Speaker 1
+the most important thing to think about when incorporating AI with your team is.
+
+
+00:07:45.820 — 00:07:47.140 · Speaker 1
+Let me think about this for a second.
+
+
+00:07:47.180 — 00:07:47.900 · Speaker 2
+A lot of rabbit holes.
+
+
+00:07:47.980 — 00:07:53.820 · Speaker 1
+Yeah, there's a lot of rabbit holes. And I'm just like, ooh, how do I keep this shorter for you? So you get a good sound bite?
+
+
+00:07:55.060 — 00:08:52.340 · Speaker 1
+Yeah. Actually, you know, I think one of the most important things to think about when you're integrating AI into a team based setting is where do humans uniquely excel, and where can technology support them and make their lives better? I think the other thing that's really important is that we focus on team dynamics.
+
+I was recently looking at a recent HBR article that talked about some of the breakdown that's happening on teams, because trust is falling. And the reason that trust is falling is that the trust building activity of one human, asking another human for knowledge that they have, and learning what each other's strengths are, is starting to happen less.
+
+And so I think in those cases, we need to remember some of the human aspects of this and realize that just because I could ask an AI, maybe I should ask someone else. Maybe they actually have a unique insight on it as well. The human element is always going to be critical in that teamwork, and it's always going to take groups of humans to work together to accomplish, you know, the next set of innovations that we have.
+
+
+00:08:53.180 — 00:09:01.180 · Speaker 2
+I love that. I'm going to transition here to some of our kind of next questions is what are you helping build next?
+
+
+00:09:01.260 — 00:09:01.700 · Speaker 1
+Hmm.
+
+
+00:09:05.700 — 00:09:25.340 · Speaker 1
+So one of the things that we're helping build next is the way that startups bring new ideas to life. Right now we can build faster than ever. And that's so cool. I never thought that like a point in my career we'd actually be talking about. Actually, let me try this again. Sorry. I backed myself into a weird corner, I love it.
+
+
+00:09:25.940 — 00:09:32.340 · Speaker 2
+Yeah. Question though, you know what I'm saying? Well, I'll just repeat it back. Yep. And then we can, uh, run it from there. Yeah. Um,
+
+
+00:09:33.620 — 00:09:36.340 · Speaker 2
+what are you helping build next? Yeah.
+
+
+00:09:36.620 — 00:10:41.980 · Speaker 1
+One of the things we're helping build next is how startups bring new products to life. It's really exciting right now that we can build fast, but at the same time, our ability to gather evidence of what to build is actually slowing down. So many people are creating so many different things right now that consumers are being inundated by the million new CRM solutions that are coming to life.
+
+They might even try 1 or 2 of them and they don't work that well. And then the consumer says, you know what, I'm just going to sit out this class of solutions. So as a startup, you're kind of in this weird spot where, yes, you can build fast, you can bring these ideas to life and you can try things, but at the same time, your ability to gather evidence is actually shrinking.
+
+And so in this moment, we're trying to find new ways of working with our startup partners to help them bring things to life at the right pace and find new ways to connect them with pilot partners, other customers, so that they can gain evidence that their innovation might actually be something or it might change into something.
+
+Or frankly, you know what? Maybe there's nothing to it. They should put it away and move on to the next thing, which is another gift that we can give entrepreneurs as well.
+
+
+00:10:42.620 — 00:10:54.980 · Speaker 2
+Which is probably a helpful gift. Yeah. Time. Right. You got to keep that time. Yeah. My next follow up to that is what is one thing Nebraska needs to get right to help that work succeed. Hmm.
+
+
+00:10:56.180 — 00:12:01.820 · Speaker 1
+I think one of the things that Nebraska needs to get right to help it succeed is giving our startups good, clear signal. The gift of feedback on whatever their innovation is. We have this thing we talk about in Nebraska. Nebraska. Nice, right? We like to cheerlead each other. We like to help each other. Right.
+
+I see founders and startups go to potential customers, have conversations with them and get positive feedback, go off and build the thing and then bring it back to that person, only to have them say, oh, well, actually, I don't know that I'm the right user. I was just trying to be helpful. I was trying to give you some advice to keep you going.
+
+But in this moment, the best gift that we can give these founders. Is that clear on a signal on. Yeah. This is great. Or no, this isn't going to work for me. And here's why. It's not going to work for me. Because as we solve harder and harder problems, that clear signal is what will give that founder the insight to pivot into a better solution or to pivot into a different product entirely.
+
+And so, although it might feel a little hard to give someone that tough feedback, I think that's one of the things in this moment that we could really do to help our startups succeed.
+
+
+00:12:03.350 — 00:12:07.310 · Speaker 2
+Why are startups important to Nebraska's economy? Yeah.
+
+
+00:12:08.430 — 00:12:57.270 · Speaker 1
+Startups are really important to Nebraska's economy because it leads to quite a bit of job growth, but also it leads to innovation. It gives us chances to experiment with lots of different things quickly. And as we experiment with that, we start to have new insights that people hadn't thought of before.
+
+You know, a lot of cases in established corporations, we get so close to the problem, it's hard to truly come up with divergent thoughts. And so startups are a great technique to explore that adjacent possible and see if there's something to it and then move to it. If so, but also if not, isn't a whole lot of risk in that it can go away and you can move on to the next thing.
+
+And so I think more than ever, corporations partnering with startups, you know, in this moment of change is an ideal way to really explore what these possibilities could be.
+
+
+00:12:58.550 — 00:13:00.830 · Speaker 2
+What is a startup? Yeah.
+
+
+00:13:01.310 — 00:13:27.830 · Speaker 1
+Um, when you say, what is a startup? I go back to Steve Blank's definition of thinking about it as a temporary entity in search of a scalable, repeatable business model. And so they're going after problem solution fit. And then as they find that they're going after product market fit. And then as they achieve that, we frankly should celebrate that they're not a startup anymore.
+
+Once they've found those things, they've transitioned to something else. And that is an awesome moment.
+
+
+00:13:28.670 — 00:13:52.150 · Speaker 2
+I think that it's interesting as from an outside in perspective, we like somebody who is maybe not as familiar as keyed in. Yeah. Um, they can see a company that has, you know, millions of dollars in revenue or millions of dollars of venture capital, and they're oh, that's still a startup. But then you also have, you know, Hunter with this laptop in his apartment, you know, and that's still also kind of a startup.
+
+Yeah, yeah. And so how do you really differentiate the stages of startups? Yeah.
+
+
+00:13:52.470 — 00:14:40.630 · Speaker 1
+Well, I think it comes back to the definition I was sharing a little bit ago about how you differentiate that you can have corporations of all stages and sizes that are working through those key elements. In this moment of change, you're right, established companies are having to go back to the drawing board and say is their problem solution fit, and they're a bit like a startup again, by that definition.
+
+And then growing that into product market fit, right. All the things around, does it just solve the problem? But does it solve it in the ways that work for consumers, and is there a sustainable business model around it? And so with all the change that's happening, to your point, I think there's going to be a lot of these opportunities where people are going to feel like, hey, we were a startup.
+
+Yep, we made it. Now we've been disrupted. Guess what? We need to operate like a startup again. Otherwise we might go out of business.
+
+
+00:14:41.590 — 00:14:57.710 · Speaker 2
+Yeah, I love that also because things change. Yeah, cultures change, you know? Age, demographics change, right? Um, you guys are uniquely positioned to be able to see what people are building right now. So what do you think people are going to be building next? Yeah.
+
+
+00:14:59.750 — 00:16:42.470 · Speaker 1
+You know, the things I think people are going to be building next are going to be really niche solutions. I think a lot of the obvious things have been solved in one way or another. In this moment, with new technologies, we can probably resolve them in different ways and we'll see a period where that's happening.
+
+But frankly, now we're going to be able to go to those more niche, more specific use cases and solve those and solve those really well, because there's a lot of things now that are viable that weren't viable before in those niche areas. And so that's going to involve us truly understanding problems deeply, to have those insights, to go and solve that.
+
+Um, I think the other thing is that we can't fully predict what we're going to solve next. If we look at other transformational innovations. I like to go back to electricity. As one example, electricity came about. And so what did we do? We replaced the things we knew today. And so what did we do? We we took candles, right.
+
+And we replaced them with light bulbs. We did the things we understood. But then along the way, there was some epiphanies. Somebody realized now that we have electricity. We can spin a motor. Okay, now that we can spin something, what can we do with that? And a whole host of industries that nobody thought of emerged at that moment.
+
+You know, we had the motor for cars. We had the motor for assembly lines, we had the compressor for refrigeration in refrigerators. And so that created all these new industries and opportunities. And so when I look at AI and the transformation that's happening now, it feels a lot like we're kind of in that replace step and we're just exploring some of that adjacent possible.
+
+But in the next kind of 1 to 3 years, I think we're going to see some completely new industries that we didn't expect because we just couldn't see that adjacent possible until we stepped into it.
+
+
+00:16:44.270 — 00:17:12.160 · Speaker 2
+Yeah. And I asked that question because, you know, what we build next is really, like you said, kind of undetermined. I love your answer about the motor and some of those things. Um, because that's kind of where we're at. Right. It's a little bit of a problem identifying the problem in solution. Right. Um, I've got a couple of different questions here, and I'd love for you to maybe just pick one.
+
+Okay, so we have business growth, workforce, cybersecurity infrastructure and emerging technology. Which one of those which you love to go down.
+
+
+00:17:12.199 — 00:17:14.839 · Speaker 1
+Let's go down. Workforce. Workforce I like workforce.
+
+
+00:17:14.880 — 00:17:23.680 · Speaker 2
+Yeah I know you do. Yeah. Like the way we work. Um, what is one way employers could open a first door for someone without traditional tech credentials?
+
+
+00:17:23.720 — 00:17:24.199 · Speaker 1
+Hmm.
+
+
+00:17:25.480 — 00:17:31.720 · Speaker 2
+Kind of a mouthful. So if you just want to say, like, one way employers can open doors for someone without traditional.
+
+
+00:17:31.720 — 00:17:41.160 · Speaker 1
+Well, here was my hesitation. I was going to ask you real quick. It's like we have a product squarely in that area. Should I talk about that or is that too close to, like, our business? That that doesn't sound good.
+
+
+00:17:41.520 — 00:17:44.200 · Speaker 2
+Um, well, give me the. Just give me the answer and then.
+
+
+00:17:44.560 — 00:19:00.080 · Speaker 1
+Yeah, yeah. So one of the ways that an employer can open a doors to somebody who's not typically in innovation is through novel education programs. And don't Panic Labs. We've partnered with Doane University to create a pathways program in this program. It's a 20 week program. We take someone who has aptitude in technology, and we take them all the way to a developer placed in an organization that sponsored their education.
+
+And so with this program, it's modeled a lot like accelerated nursing programs to where the employee gets to focus full time on their education for that period of time. They actually receive a salary from the organization. So that way, you know all their life circumstances, they can handle those and focus on their education.
+
+And then the curriculum also can be tailored to that job that they're going to land in. And so that way when they're placed in the organization, placed in that team, they hit the ground running. Um, what's been phenomenal about that is we've seen both like culture fits within an organization be upscaled into those positions, as well as people in our community who, you know, might be stocking shelves somewhere but have a tremendous aptitude, get the situation and ability to actually go through the education to radically transform their lives.
+
+And it's just been a pleasure over the last years to actually transform 60 lives through that program.
+
+
+00:19:01.000 — 00:19:05.560 · Speaker 2
+Yeah. Cool. Yeah. I'm glad you talked about it. Yeah. Where can people find more information about that?
+
+
+00:19:05.600 — 00:19:08.840 · Speaker 1
+Yeah. You can find more information about that at our website at don't panic.
+
+
+00:19:10.000 — 00:19:13.560 · Speaker 2
+And let's do like a good like. You can find more information about our career pathways.
+
+
+00:19:13.800 — 00:19:17.160 · Speaker 1
+Yep. You can find more information about our pathways program at Don't Panic.
+
+
+00:19:17.440 — 00:19:27.960 · Speaker 2
+I love that. Um, lastly, what are some like. What's like one thing you would like others to take away from the Tech Nebraska summit? Yeah.
+
+
+00:19:30.640 — 00:20:31.000 · Speaker 1
+One of the things I would like people to take, or the thing I would like people to take away from the Tech Nebraska summit, is that community matters more than ever. We are taking on complex problems now. That's compared to the complicated problems that we were taking on before. And what that means is that as we dive in, we're going to learn things.
+
+Things are going to change. They're going to evolve. All the variables are going to be interrelated in some way that when we change one thing, another unexpected thing will happen. And as humans, as we take on those complex problems, you have to do it with others. You have to do it with a team. And yes, you have a bunch of those resources in your organization.
+
+But in moments of change like this, and with truly complex problems, organizations have to work together. You have to have a support structure around you and tech. Nebraska is a phenomenal way to meet a whole series of technologists, a whole series of innovative people in a variety of different roles who can be your support structure to navigate that together, because it's going to take all of us as a community to succeed doing that.
+
+
+00:20:32.360 — 00:20:52.080 · Speaker 2
+I love that. I feel like you just drop the mic right on the floor. Awesome. Brian, I appreciate you taking the time to chat with us. Yeah. And tell us a little bit more about technology and how people can, you know, get involved and what are we building next? Yeah, I really do appreciate it. Do you have any last, like, thoughts?
+
+Oh, gosh, I'd love to hear any thoughts. I definitely did a great job of covering kind of those bases.
+
+
+00:20:52.120 — 00:20:53.160 · Speaker 1
+Yeah. Um,
+
+
+00:20:54.840 — 00:22:21.410 · Speaker 1
+I'm just trying to think, you know, the last thought I'd like to share is just like the role of a leader in this moment of change. Um, So often our leaders are focused on management or incremental change, and we're in a moment of transformational change. And unfortunately, we don't spend enough time teaching the things that that are about transformational change.
+
+And so the thing I'd like to share is that I think every leader right now needs to think about how do I create the conditions for change to happen? How do I create the safety for that to happen? And so, so often when we learn something that's just an incremental change, people can fit that into their job, right?
+
+We can give them some things. They do a couple of things, and then they get better and velocity increases. But in these moments of transformational change, as leaders, we have to do some things that are probably a little uncomfortable. We've got to create space for learning to happen. And that means we have to be okay with things slowing down.
+
+And that doesn't always feel good. But learning can only happen when people can slow down and create the space to do it. But then at the same time as we learn, the other uncomfortable thing happens. Failures increase. And so we've got to build some safety and structures to hinder the failures that happen as people are learning.
+
+And so as a leader, if we can create the conditions for that and provide some scaffolding for the people to go through it, I think we can emerge into quite a few real positive possibilities. But as leaders, if we don't create those conditions, I think the only thing we can be sure of is we're going to stay stuck in the same place.
+
+
+00:22:22.770 — 00:22:38.250 · Speaker 2
+That was a great last thought. I appreciate that. I think we just interviewed Chris Dill right before this, and he talked a lot about like, leadership. And, um, you know, how somebody can be a good technologist but potentially maybe is not a good manager. Yeah. Um, and some of those pieces. So I think the leadership is the component of.
+
+
+00:22:38.250 — 00:22:58.650 · Speaker 1
+Yeah, we've actually intentionally designed our growth paths that don't panic labs so that they're basically is a path that you can go that's more of just a technical path, or there's a path that you can go that the people management path, but both have advancement opportunities. So you don't just hit a ceiling where it's like, okay, to advance, you have to manage people because to your point, everybody's got different strengths and interests and they should have growth paths.
+
+
+00:22:59.290 — 00:23:01.130 · Speaker 2
+Yeah, I love that. Yeah I really do appreciate.
+
+
+00:23:01.170 — 00:23:01.850 · Speaker 1
+Hey, thanks for the invite.
+
+
+00:23:02.050 — 00:23:03.810 · Speaker 2
+Yeah, absolutely. I'm going to steal this back from.
+

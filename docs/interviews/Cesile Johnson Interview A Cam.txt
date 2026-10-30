@@ -1,0 +1,344 @@
+Cesile Johnson Interview A Cam.txt
+English (US)
+
+00:00:00.400 — 00:00:14.760 · Speaker 1
+In the people that are building here as well. Okay. Um, so I actually have a couple questions for you. Um, I was reading your CIO mastermind before this. Did you like that? Drop in some bombs? Yeah. Good bombs.
+
+
+00:00:15.080 — 00:00:15.720 · Speaker 2
+Yeah. Yeah, yeah.
+
+
+00:00:15.760 — 00:00:18.800 · Speaker 1
+Yeah, absolutely. Um, let me pull this up here real quick.
+
+
+00:00:18.840 — 00:00:33.160 · Speaker 3
+I just did one with, um, banking CIO outlook. Okay, so it was pretty cool to do two. The questions are good. They're all kind of the same, you know. But I think that's what I've been struggling with today. So it's been cool. Yeah. It's been good.
+
+
+00:00:33.440 — 00:00:36.280 · Speaker 1
+And how do you pronounce your name? Would you actually say and spell your name for me?
+
+
+00:00:36.320 — 00:00:42.800 · Speaker 3
+Yeah. It's Sicily. Sicily? Last name? Johnson. Johnson.
+
+
+00:00:43.240 — 00:00:45.880 · Speaker 1
+And then what is your organization and title?
+
+
+00:00:46.240 — 00:00:52.000 · Speaker 3
+Um, so I'm at core Bank and I am the CTO chief technology officer.
+
+
+00:00:52.200 — 00:01:09.380 · Speaker 1
+Awesome. Good to go. Gage. Yep. Audio sounds good. Yeah. Okay. Um, and if we pick up any, like, Russell just tapped me on the shoulder. Yeah. So, Um, awesome. Well, I've kind of been starting with, you know, uh, it's kind of a silly question. Um, it's. Who are you? And what do you do?
+
+
+00:01:09.500 — 00:01:51.980 · Speaker 3
+Yeah. So I'm Cecily Johnson. I'm the chief technology officer at core Bank. We're headquartered in Omaha, Nebraska, with the second location in Kansas City. Um, I am responsible for the transformation of our legacy systems into modern technologies. Emerging technologies. Um, my focus is around data automation, AI, infrastructure security.
+
+Um, also product delivery and how we deliver across the organization. So, um, I also work very closely with the business on those outcomes and making sure that my technology enablement is allowing them for the revenue growth that we're that we're focused on.
+
+
+00:01:52.580 — 00:01:58.140 · Speaker 1
+I love that. I always like to start like, where are you from originally?
+
+
+00:01:58.260 — 00:02:30.550 · Speaker 3
+Um, I'm from Pleasanton, California. Um, I grew up there and I until I was 19, and I moved over to Omaha and went to Creighton University. Um, graduated from Creighton and stayed here in the Midwest. I love the Midwest, especially. Nebraska is just there's such a nice touch. You know, they call it Nebraska nice, which I like, but I've really seen us become that next Silicon Prairie, you know?
+
+And so it's now where the silicone. Yes. Silicone prairie. Is that right?
+
+
+00:02:30.590 — 00:02:31.150 · Speaker 1
+Yeah.
+
+
+00:02:31.190 — 00:02:44.230 · Speaker 3
+I always get that mixed up. So Silicon Valley, Silicon Prairie, um, which is really nice to see because we are growing. The technology has definitely changed. So it's been really nice to, to help, you know, enable that.
+
+
+00:02:44.590 — 00:02:50.150 · Speaker 1
+What was your first experience with technology and like how did you kind of know that that was the path?
+
+
+00:02:50.310 — 00:03:04.050 · Speaker 3
+Um, so when I first experienced technology was in the 80s when we first got our, our, our first PC, um, it was an IBM and I remember that it just
+
+
+00:03:05.490 — 00:03:46.530 · Speaker 3
+the exploration that it provided, that foundational exploration that I could never see just in my day to day. Um, it's kind of like the telephone. You know, we had landlines growing up. I was so excited to have call waiting. Right. Or caller ID? Then the iPhone came out and now I could answer the phone anywhere I went.
+
+Now, there were some negatives to that, right? That you never really had a time to be away from that technology. But, um, it, you know, to me to see that evolution of just going from, you know, a computer to an iPhone, etc. has been really cool to see. And it's moving a lot faster now.
+
+
+00:03:47.850 — 00:03:53.330 · Speaker 1
+Yeah. And, uh, what what, um, when you got that first computer, what year was it?
+
+
+00:03:53.370 — 00:03:57.290 · Speaker 3
+I think it was. I don't hold me on this, but I think it was 1985.
+
+
+00:03:57.330 — 00:03:59.410 · Speaker 1
+Okay. Yeah. And what kind of computer was it?
+
+
+00:03:59.450 — 00:04:13.230 · Speaker 3
+It was an IBM. Um, I don't remember the model of it, but it was. I know it was an IBM and it was big. It was very big. Um, but I do remember playing on it and it was it was really cool. And, you know,
+
+
+00:04:14.270 — 00:04:37.990 · Speaker 3
+they had the thing back then where I grew up, you know, was like, people had pagers to get Ahold of their kids. Right. That's what they did. And it was like, very interesting because when I got into technology, having a pager was like something you had when you were, you know, to get on call. So it's interesting how that has evolved into just different as it emerges, the technology.
+
+Yeah.
+
+
+00:04:38.350 — 00:04:40.110 · Speaker 1
+What are you passionate about?
+
+
+00:04:41.230 — 00:05:37.080 · Speaker 3
+So if it's within technology, what I'm extremely passionate about is growing people, building teams. I really enjoy that because I am strong believer without the people we don't have anything. So yes, it's cool to see technology emerge, grow, evolve. But you're not going to see that change without the people enabling it.
+
+And so I always try to like when we have individuals that are very uncomfortable about the AI, you know, evolution, it's it's looking at it more as something to help you be more efficient and be able to spend time more with the people. So you're not really, you know, bogged down with that day to day. So I, I, I love people, I love coaching people.
+
+I like to see them grow. Um, and I always say like the best people reporting to me or under me because, you know, that just makes all of us just one unit and how we can really advance together.
+
+
+00:05:38.960 — 00:05:44.320 · Speaker 1
+Um, you gave a talk today, and I would love for. Are you, uh, you moderated a panel, right? Yeah.
+
+
+00:05:44.480 — 00:05:46.160 · Speaker 3
+Oh, no. No, I was a panelist.
+
+
+00:05:46.560 — 00:05:53.600 · Speaker 1
+Yes. Okay, great. Yes. Um, so on that panel, can you maybe drop a little bit of value bombs for us that maybe you touched on?
+
+
+00:05:53.640 — 00:07:35.200 · Speaker 3
+Yeah, absolutely. So we talked a lot about just AI enablement. Um, how do we get those individuals to really come along and and not be those naysayers. Right. Um, so about, uh, you know, just implementations that I've made within the organization to help us get there and to get that, um, you know, that adoption.
+
+So we talked a lot about that. Um, we talked about to just building teams to build companies. So what are the things that we need to do to enable those those teams to do so, so around, um, you know, making sure that we're focused on business outcomes, understanding the business before applying the technology, working together.
+
+Um, you know, making sure that your team is aware of how AI can enable them and the enterprise and and realizing that, you know, doing more with less is okay. It's about, again, like I said, redirecting your time in other places. We talked about the risk of technology. And, um, you know, some people think that if you are focused on risk, you need to slow down, but it's really just about understanding.
+
+You know where to insert that focus as you're moving along the process and the journey. Um, we talked about building teams and saying, you know, how we get the whole enterprise engaged. And it's not just about technology being basically forced on the business and how you bring others along. You influence them.
+
+You show them the values in the outcomes of what they can see and receive based on what we're implementing. So things like that.
+
+
+00:07:35.240 — 00:07:38.800 · Speaker 1
+I love that, and I'm curious, um, as CTO,
+
+
+00:07:39.840 — 00:07:43.760 · Speaker 1
+um, what what does it mean to be a CTO?
+
+
+00:07:44.400 — 00:09:53.070 · Speaker 3
+So I think a CTO has changed quite a bit. Um, a CTO in somewhat of a, like a startup, a tech company. I do believe that CTO needs to be very technical, needs to know how to code, needs how to push PRS, those type of things. When you're looking at a CTO and some of these other organizations, they need to understand it and be able to ask the right questions, remove barriers and so forth from their teams.
+
+But being hands on is not going to bring any value, and you have many different areas that you have to focus on, right and lead and coach. So it's really about knowing the right questions to ask those individuals and be able to say, um, you know, challenge them. And if they fail, it's okay to tell them it's okay to fail.
+
+Actually, I want you to fail because I want you to fail forward and fail fast. It also teaches you how to what to learn and how to challenge your own way of doing things. So that's how I look at a CTO, but I also look at CTOs and CIOs as becoming one. Before you would have a CIO and a CTO, the CIO would be more about, you know, organizational information, where you had more of the CTO.
+
+It's in there doing the tech and the architecture. I do feel like the architecture is still there, but I enable that. So okay, let's build out this tech stack. What do we want it to look like? How do we want our integrations to look? How do we want our data to flow? How do we reduce tech debt and those disparate systems.
+
+So it's more about really that day to day operational technology led. But you're seeing a lot of CTOs also having to be informative to the boards. They have, you know, a seat at the board. They're working closely with CEOs these days too, because technology is moving so fast. Companies are becoming technology led.
+
+They're not just business ran. And so it's a very important role in organizations right now. Um, somebody that really understands current state and can move to future state is a unicorn in my opinion. Usually people are very niche. They don't have those social skills to be able to influence the business.
+
+
+00:09:53.510 — 00:09:59.510 · Speaker 1
+So my next question for you is what are you building? Let's see.
+
+
+00:10:00.630 — 00:10:08.130 · Speaker 1
+Here we go. What are you helping build next? And if you want to give me kind of that, like I'm helping build next, you know.
+
+
+00:10:08.170 — 00:10:24.170 · Speaker 3
+Yeah. Um, I'm helping build next our future, uh, tech platform, our future generation of technologists, as well as our business growth and outcomes. Um,
+
+
+00:10:25.650 — 00:11:40.860 · Speaker 3
+I am very big on making sure that people understand that technology just isn't about laptops and helpdesk tickets. It's about how do we enable the business for growth and to grow revenue, right? Which is what all businesses need, right? They need those assets, etc.. Um, within the technology in that future platform and focusing on building our data lake, we're building our middleware layer so we can integrate and be seamless and scalable and secure very quickly, be able to service those customers in not only that, the business right through those technology integrations, those fintechs, um, also being able to look at, um, you know, how we make that infrastructure and that foundation sound to be able to do the things, how they talk together.
+
+Um, so those are the things that I'm really focusing on right now. And, you know, I've been at it for almost two years in June. Um, we have come a long way. Um, every time I talk to people about what we've done, they're like, wow, I've done that already. And I have a really good team, and we're very intentional and focused on what we're doing.
+
+Not a lot of noise. We talk a lot about two things like, what do we really need to be working on, right. And what should we be working on. And that's really important.
+
+
+00:11:41.860 — 00:11:47.860 · Speaker 1
+That's kind of a follow up to that. What is one thing Nebraska needs to get right to help you succeed?
+
+
+00:11:48.580 — 00:11:49.700 · Speaker 3
+Me? Myself?
+
+
+00:11:49.740 — 00:11:54.220 · Speaker 1
+Um, sorry. What is one thing Nebraska needs to get right to help that work succeed?
+
+
+00:11:55.420 — 00:12:46.000 · Speaker 3
+I think the one thing with Nebraska is that we have to continue to be nimble, so be able to evolve quickly and change. As we know, AI is changing, so we have to not be afraid and just wait for it to come. We have to be ahead of the curve. And so I look at things as in in six months AI is going to be different, two years even more.
+
+Right. And so we have to be staying ahead of it, learning, not be afraid to learn. Be very curious and understand that technology is going to be a part of everybody's life. Um, how do we make sure that it's enabled? But we're also using it responsibly, um, and that we're also supporting companies that they actually have the runway to do that?
+
+
+00:12:47.960 — 00:13:02.760 · Speaker 1
+I've got four kind of different themes that we could go into as just kind of one question. Okay. We have, uh, business growth, workforce, cybersecurity infrastructure and connectivity and emerging technology.
+
+
+00:13:03.120 — 00:13:08.330 · Speaker 3
+Um, the first two Business growth. Yeah. Let's do it. Okay. Let's pick it.
+
+
+00:13:08.370 — 00:13:08.930 · Speaker 1
+How?
+
+
+00:13:10.170 — 00:13:11.050 · Speaker 1
+Number three.
+
+
+00:13:12.450 — 00:13:20.250 · Speaker 1
+How can Nebraska make it easier for companies and traditional industries to adopt or scale new technologies?
+
+
+00:13:21.850 — 00:13:23.290 · Speaker 3
+Oh, that's a tough question.
+
+
+00:13:23.570 — 00:13:25.370 · Speaker 1
+Um, we can go to number two.
+
+
+00:13:26.450 — 00:13:28.810 · Speaker 3
+How can we make it easier for them to scale.
+
+
+00:13:29.970 — 00:13:32.730 · Speaker 1
+Or even, like, adopt new technologies?
+
+
+00:13:33.970 — 00:13:55.690 · Speaker 3
+So I'm going to take this from a different angle in that I think it's not so much that Nebraska is not able to enable. I think it's more of the companies are not able to change and adopt the need to lean on Nebraska to help them adopt, change and grow the business, etc.. Um,
+
+
+00:13:57.170 — 00:13:59.650 · Speaker 3
+I hope you followed that. Okay.
+
+
+00:14:01.570 — 00:15:08.090 · Speaker 3
+Um, because it's kind of the back door on it, I think it's more of the businesses allowing Nebraska to to say, hey, we need your support, we need the policies and the growth to be able to enable this, but we're going to need to lean on you to do so. Um, I also think that the businesses are having a hard time with it because you have a lot of tenure, people that have been there for 30 years that are really resistant to change because change is scary.
+
+Change may not be stable anymore. Right, for them in there. And I understand that is, you know, but we have to be able to really influence and educate the change within the organizations. So that leads me to answer your question in the fact that Nebraska can do so by being more informational and providing those that educational value around, how can we help organizations to move and shift the organization to look at things differently.
+
+
+00:15:09.850 — 00:15:14.010 · Speaker 1
+Absolutely. And also probably just coming to events like this and being open to change too.
+
+
+00:15:14.050 — 00:15:14.690 · Speaker 3
+Absolutely.
+
+
+00:15:14.690 — 00:15:14.850 · Speaker 1
+Yeah.
+
+
+00:15:15.410 — 00:15:29.730 · Speaker 3
+Yeah it is. It's being educated. Um, you know, we think that others know a lot of what we know and they don't. So being able to spend time and provide what worked, what didn't work. Um, it's really been beneficial.
+
+
+00:15:30.970 — 00:15:47.250 · Speaker 1
+Um, what is one piece of wisdom that you would give somebody who's looking to, you know, graduate high school into college and then maybe college or let's go to the emerging leader, emerging professional from college into the workforce. What is maybe one piece of advice you would give them?
+
+
+00:15:47.290 — 00:15:47.930 · Speaker 3
+So
+
+
+00:15:49.090 — 00:16:06.500 · Speaker 3
+I've been asked this question before, and it's a tough one to answer because it's you want to be very supportive and help individuals. My advice is make sure you're going getting a degree in something you can get a job in, right? AI.
+
+
+00:16:07.780 — 00:16:39.579 · Speaker 3
+It is taking some of the responsibilities away now. AI you may have a workforce, say of ten people, and now that workforce may only. Or that organization may only need to hire five. Right. Because AI they're using AI. So there's less jobs, right, for individuals. So that's that's one thing. The second thing is that don't give up when a door closes, because there's going to be another one that opens.
+
+No matter how seasoned you are in technology or is a professional, you
+
+
+00:16:40.620 — 00:17:24.680 · Speaker 3
+have many, many tries at things. Sometimes many doors close and it's just like when you're trying to get something to evolve in, get adopted at your organization, a technology, it's many, many tries at it sometimes and many avenues you got to take. So I always say, don't give up. Um, make sure that you're focusing on where you can get a job and focus on areas that you're passionate about is key, too, because you know it's something you're going to be doing your whole life.
+
+And if you have passion, you can elevate. And it's just patience. It comes naturally, right? Success comes naturally. So those are just a few there.
+
+
+00:17:24.839 — 00:17:39.960 · Speaker 1
+Yeah, absolutely. Thank you so much for for sharing some of those wisdoms. Um, that's pretty much a majority of my questions. Uh, do you have anything? My last question, actually, that I usually end with is, what is the one thing you hope somebody who came to this summit takes away?
+
+
+00:17:40.640 — 00:18:28.980 · Speaker 3
+I hope they take away some ideas and some thought leadership on how things can be done differently. Um, how we can evolve. Um, I would also hope that they can look at things and say, uh, you know, I had a problem that I wanted to solve, and I was able to learn how to solve that through, you know, different sessions that I've been at.
+
+Also good networking and connections, right? So I don't look at tech. Nebraska is something that is just for technologists, but mainly other individuals within Omaha, Nebraska area that are trying to learn more about how technology can enable their growth in their business. Also, you know,
+
+
+00:18:30.380 — 00:18:44.820 · Speaker 3
+working with the partners that are here local, it feeds our community and it feeds the growth of our, our our future Nebraska, which is really important. So being able to really make sure that we're keeping keeping it in Nebraska.
+
+
+00:18:45.620 — 00:18:49.140 · Speaker 1
+I love that. Um, what keeps you in Nebraska?
+
+
+00:18:50.420 — 00:19:41.590 · Speaker 3
+What keeps me in Nebraska? Well, um, what I love about Nebraska is I feel like it's it's really, um. It feels like it's a safe place compared to the rest of the world. The education is really great here. Um, the colleges, they all want to partner and work together. We have companies that are all close and we all know each other some way or we've been down some avenue together.
+
+Um, it's very much like a very true family and it's very authentic. And so, um, the winters are rough, but they're not as bad as some other areas of the world. So, um, but I really do enjoy just just the way we come together and we're all focused on, you know, what's the purpose? What's our core? You know, we were focused on the good life.
+
+
+00:19:42.670 — 00:19:44.990 · Speaker 1
+That's the mic drop right there. Yeah.
+
+
+00:19:46.390 — 00:19:53.470 · Speaker 1
+Is there anything else you'd like to leave? There's like a knowledge bomb or anything like that for. There's things. I think you've dropped a lot of helpful information already.
+
+
+00:19:53.590 — 00:19:59.190 · Speaker 3
+Um, no, I think that's good. Do you, do you edit some of those things out that I get?
+
+
+00:19:59.630 — 00:20:01.150 · Speaker 2
+Because I was like, whoa. I was like.
+
+
+00:20:01.190 — 00:20:01.870 · Speaker 1
+Actually, we have.
+
+
+00:20:01.870 — 00:20:02.270 · Speaker 2
+Okay.
+
+
+00:20:02.550 — 00:20:05.150 · Speaker 1
+That's why we have the two cameras. So we can kind of cut back and forth.
+
+
+00:20:05.190 — 00:20:05.710 · Speaker 2
+Good, good good.
+
+
+00:20:05.950 — 00:20:08.630 · Speaker 3
+That's good. Thank you. Because there's some things in there. When I said did you get.
+

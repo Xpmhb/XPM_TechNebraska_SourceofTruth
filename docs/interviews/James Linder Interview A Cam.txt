@@ -1,0 +1,290 @@
+James Linder Interview A Cam.txt
+English (US)
+
+00:00:00.520 — 00:00:03.520 · Speaker 1
+I mean, lipstick on a pig.
+
+
+00:00:04.000 — 00:00:15.000 · Speaker 2
+Yeah. No worries, no worries. Um, we got 11 here. Okay. Um, the first question I have for you is, uh, will you go ahead and say and spell your name?
+
+
+00:00:15.160 — 00:00:24.440 · Speaker 1
+My name is James Linder. James INDER and I'm a physician so often MD is behind it.
+
+
+00:00:24.680 — 00:00:28.840 · Speaker 2
+Okay. And then, um, what is the your role and organization?
+
+
+00:00:31.520 — 00:00:33.400 · Speaker 1
+Sorry. In what organization?
+
+
+00:00:33.600 — 00:00:35.760 · Speaker 2
+Uh, what organization are you with?
+
+
+00:00:35.800 — 00:00:37.640 · Speaker 1
+Oh, this is a tough one here.
+
+
+00:00:39.280 — 00:00:42.400 · Speaker 1
+Uh, it's going to be in the in the video. Yeah.
+
+
+00:00:43.440 — 00:01:24.710 · Speaker 1
+Okay. So I've been fortunate to have a very diverse career. My training is in medicine, and I'm a pathologist by training. And the joke about our specialty is that we know everything about everything. But too late. But early on, I became of a believer that technology can better advance diagnostics. So I've been involved in diagnostic companies.
+
+I've been an academic at the University of Nebraska medical center. I've been an angel investor and founder of companies. So I think the diversity of life is what makes things interesting. And currently, my wife and I invest through Linseed Capital to support startup companies in Nebraska.
+
+
+00:01:25.630 — 00:01:31.030 · Speaker 2
+Love that. For our video, what should we put as your organization in title?
+
+
+00:01:31.510 — 00:01:37.070 · Speaker 1
+Uh, just put, uh, linseed capital. Okay. And, uh.
+
+
+00:01:37.790 — 00:01:40.029 · Speaker 2
+Co-founder okay. We'll do
+
+
+00:01:42.030 — 00:01:49.590 · Speaker 2
+James. You have quite the breadth of experience. Um, this sounds like a silly question, but, uh, who are you and what do you do?
+
+
+00:01:50.950 — 00:02:38.940 · Speaker 1
+You know, it's always an interesting question of who are you versus what is your job? And for many years. On my Twitter handle, I met a guy from Nebraska who enjoys technology and interesting people. And part of that was my fundamental belief that people are really the same throughout epochs. The people in Pompeii, you know, had homes, they had restaurants, they had sporting facilities.
+
+And we do the same thing today. But we're changed by the technology that's in our environment that allows us to better connect, to create better lives, to advance health care. So I try and be focused on being a good human and then take advantage of technology to fulfill the roles that I've had more effectively.
+
+
+00:02:40.140 — 00:02:42.020 · Speaker 2
+What are you passionate about?
+
+
+00:02:50.460 — 00:03:11.730 · Speaker 1
+It shouldn't be a hard question to answer, should it? I'm probably most passionate about trying to improve whatever activities I've given a responsibility for. And to make things better when I leave them than when I was before I took on that role. So that's helped me in a variety of roles at the university and in business.
+
+
+00:03:13.450 — 00:03:20.730 · Speaker 2
+You mentioned before we kind of started here that you have a variety of experience. How did you get involved in technology?
+
+
+00:03:22.330 — 00:04:26.360 · Speaker 1
+I first became involved in technology when I was in my residency training, and as a pathologist, we look at cells and you can visually look at them and say, this is a big one, this is a small one, this is ugly. This is not so ugly. But I became intrigued with applying digital imaging to better classifying cells and what types of materials were involved in those cells.
+
+So my recruitment package at the university was a PC that was little floppy disks and did imaging analysis on that to try and better classify disease. And the technology has just evolved tremendously in medicine with current molecular diagnostics and sequencing and precision medicine. So it's fascinating to see how it has improved the lifespan of people.
+
+200 years ago, the average person died at 30, okay, in the world. And now, you know, 70s, 80s, 90s hundreds is commonplace. And it's because of advances in medical technology. And I've always been excited about that.
+
+
+00:04:27.360 — 00:04:33.120 · Speaker 2
+What do you think the single biggest advancement of medical technology has been or will be?
+
+
+00:04:33.800 — 00:05:14.440 · Speaker 1
+If you look at medical technology, I think the most significant advancements will come in better characterizing disease a patient has and how you appropriately provide the right therapy. And so that's under the umbrella of precision medicine. And that's been enabled by whole genome sequencing, where you can identify what mutations might be present in a person who has cancer or if they have an infection, what the most effective antibiotic is.
+
+And if people are affected by genetic diseases, how we can use some of the new technology to replace any genes that are
+
+
+00:05:16.000 — 00:05:17.480 · Speaker 1
+not functioning properly.
+
+
+00:05:19.120 — 00:05:25.360 · Speaker 2
+And I'm sure there's so much more to, you know, in the medical industry is a lot's going on.
+
+
+00:05:25.480 — 00:05:55.550 · Speaker 1
+There's an enormous revolution happening in science in general, medicine in particular, and it's enabled by artificial intelligence, because you can really take the collective universe of everything that's been published that a human could never read in their lifetime, much less remember. And you can probe that database with the appropriate questions and potentially develop new therapeutics.
+
+So that's an exciting aspect of the pharmaceutical industry right now.
+
+
+00:05:56.310 — 00:06:17.350 · Speaker 2
+I love that I'm going to take a little bit of a direction shift. Okay. Um, I do uh, to, uh, young, younger individuals and emerging leaders. Um, so somebody who's thinking about going into medicine, but also might have an interest in technology. What are maybe some, you know, career directions in college that they can think about?
+
+
+00:06:18.630 — 00:07:01.100 · Speaker 1
+So, um, when a person is in college, I my advice in general is to not be too focused on what your major is, but it's one of the few times in life where you can get a broad experience. You can experience the humanities, you can experience your major, you can experience technology. And if you understand all those, sometimes the most interesting chemical reactions occur at the interfaces between two things.
+
+And so if you understand technology and you understand the problem, whether it's medicine, engineering or some other aspect of our world. You can apply this knowledge to solve this problem. So I encourage people not to be too focused on one thing, but eat from the entire buffet.
+
+
+00:07:02.460 — 00:07:08.260 · Speaker 2
+And kind of follow your interests, right? Is that kind of the, you know, whatever you're passionate about? Um, pull that thread.
+
+
+00:07:09.860 — 00:07:14.860 · Speaker 2
+Uh, the next kind of note here is, uh, what are you helping build next?
+
+
+00:07:20.780 — 00:08:07.130 · Speaker 1
+So over the past, let's say close to 20 years through linseed capital, we've been active in investing in people that have passions to solve problems. So we've had a lot of enjoyment by being an angel investor and helping those entrepreneurs solve their own problems. On a very personal, uh, aspect, we think material science greatly changes what you can do in the world.
+
+So we've had a ceramic 3D printing company that we've run for about ten years, and it's currently involved in a lot of the defense and aerospace and medical aspects where we need new technologies that are based on ceramics. So those are two things that keep us pretty busy.
+
+
+00:08:08.650 — 00:08:12.730 · Speaker 2
+What is one thing Nebraska needs to get right to help that work succeed?
+
+
+00:08:14.530 — 00:08:16.050 · Speaker 1
+I think the one thing that.
+
+
+00:08:18.490 — 00:08:19.210 · Speaker 1
+Sorry.
+
+
+00:08:20.410 — 00:08:31.050 · Speaker 2
+Luckily, yeah, I got the water with you. I was actually thinking I should grab some water bottles just in case. Yeah. Um, it's that that time of the year where everything starts to dry up a little bit.
+
+
+00:08:31.490 — 00:08:31.930 · Speaker 1
+Yeah.
+
+
+00:08:35.409 — 00:08:36.610 · Speaker 2
+I can you I can ask you that question.
+
+
+00:08:36.610 — 00:08:37.729 · Speaker 1
+No, I remember it.
+
+
+00:08:38.890 — 00:09:39.880 · Speaker 1
+I think the thing that Nebraska needs to get right for the state to succeed in what is a very competitive country and a very competitive world is making sure that we have the workforce, people that are adequately exposed to opportunities and have a great education so that when they do enter the business world, they're ready to hit the ground running.
+
+Uh, it's really, uh, that type of education that would differentiate us from other markets. The other thing, I think that Nebraska has always gotten right and can continue to do right, is the access and connections that people can make. Uh, it's your rare CEO in Nebraska that would not take a meeting for coffee with an entrepreneur and share their ideas and listen to what they want to do.
+
+So that connection, the helping each other, which probably dates back to the time when people were pioneers, is really what can make Nebraska strong.
+
+
+00:09:41.520 — 00:09:50.110 · Speaker 2
+I love that there's, uh, four directions we can go with these next questions. And there are kind of different themes. Am I going to list them off. And we can just grab one of those themes.
+
+
+00:09:50.150 — 00:09:50.590 · Speaker 1
+Whatever you.
+
+
+00:09:50.590 — 00:10:01.870 · Speaker 2
+Want. Uh, the first one is business growth. Second one is workforce. Third is cybersecurity. Fourth is infrastructure and connectivity. And then fifth is emerging technology.
+
+
+00:10:03.350 — 00:10:04.430 · Speaker 1
+What do you want?
+
+
+00:10:07.630 — 00:10:09.510 · Speaker 2
+I think I'm interested in
+
+
+00:10:11.190 — 00:10:24.390 · Speaker 2
+this emerging technology space. Um, and the question that we have for you is, uh, what are key to what are key questions do you ask yourself when deciding whether to adopt new technology in your industry?
+
+
+00:10:29.470 — 00:11:12.380 · Speaker 1
+So one of the key questions I asked myself whenever I'm looking at a new technology, whether it's a new company to invest in or whether it's something that we're involved in, is is it solving a fundamental problem or is it an incremental improvement of what we're doing? I think the most important things for our societies, for business growth, for scalability, is to tackle problems that people haven't solved or to enter new horizons that people didn't know we had a problem.
+
+And they create new opportunities, new businesses, new technology. I think that's what allows us as humans to improve the world that we live in.
+
+
+00:11:14.380 — 00:11:14.659 · Speaker 2
+That
+
+
+00:11:15.860 — 00:11:21.620 · Speaker 2
+is my last question for you is what do you hope people take away from the Tech Nebraska summit?
+
+
+00:11:28.020 — 00:12:14.730 · Speaker 1
+Okay, so the question is, what should people take away from the Tech Nebraska summit? One of the quotes that I've always embraced is what Steve Jobs said at his Stanford commencement address. You can only connect the dots backwards. And so I hope that people who are at this conference, over 500 are experiencing a dot that might not be relevant today, but in a month, a year, they think back to this conference, maybe somebody they met and it's open a new horizon for them, whether it's their business, whether it's helping somebody else.
+
+Because a conference like this where you actually gather together face to face, is what really allows us to collectively move forward. So I'm grateful for this conference and happy to be here.
+
+
+00:12:15.610 — 00:12:22.130 · Speaker 2
+Do you have any other maybe thoughts or any other notes you'd want to touch on with the greater Nebraskan community?
+
+
+00:12:23.290 — 00:12:31.530 · Speaker 1
+Uh, I didn't come with anything prepared, so. But I'm willing to answer anything you want, and I can be on the cutting room floor if you want.
+
+
+00:12:31.570 — 00:12:32.890 · Speaker 2
+The cutting room floor?
+
+
+00:12:34.010 — 00:12:43.450 · Speaker 2
+Um, those were a majority of or, like, kind of core questions that would double check here if we got, um, I think.
+
+
+00:12:45.610 — 00:12:59.570 · Speaker 2
+As a young person, seeing technology change. Um, you know, if I'm in, like, graduating high school right now, what are some things to think about as I go to college and then go into the workforce?
+
+
+00:13:05.650 — 00:13:53.359 · Speaker 1
+I think as a young person, if you're finishing up college, just entering the business world, you have to realize that really the only constant is change. And so the more that you're prepared to deal with that change, to be adaptable, to be able to communicate with people, to understand problems, to solve problems, the more likely you are to be relevant in this changing world.
+
+And it's very hard to predict how things are going to change. Most things that we predict happen slower than we think they will, but there are things that pop up that change within a month or a year. And so I think if you have that intellectual flexibility to not be threatened by change, but embrace it and have the skills to
+
+
+00:13:54.480 — 00:13:59.360 · Speaker 1
+contribute to that change, the likelihood of having a meaningful life is wonderful.
+
+
+00:14:00.560 — 00:14:09.200 · Speaker 2
+Kind of is another audience for the startup founders. What is some wisdom that you've gathered along the way and your experience with companies in investing? Mm.
+
+
+00:14:11.760 — 00:14:12.480 · Speaker 1
+I'm going to.
+
+
+00:14:22.160 — 00:14:51.150 · Speaker 1
+So startup founders are often embracing an idea that they think will contribute significantly to the marketplace. And I always advise them to understand what value they add to the existing ecosystem to the problems that need to be solved. It is really not sufficient to be an incremental improvement because there's great entropy.
+
+Oh. Blew it.
+
+
+00:14:51.630 — 00:14:52.310 · Speaker 2
+Okay.
+
+
+00:14:52.870 — 00:14:54.150 · Speaker 1
+I'll start over again.
+
+
+00:14:58.350 — 00:15:01.510 · Speaker 1
+One of the key advice. One of the key.
+
+
+00:15:04.670 — 00:15:50.300 · Speaker 1
+As I meet with startup founders, I always advise them of three things. First is identify the problem you want to solve and make sure that it's a real problem that can be addressed by your technology and is a significant improvement over what might be done today. I also advise people to not be in love with the technology and try and find a problem, because that can make for a very, very long road.
+
+And then thirdly is think about the scale of what you're going to try and solve. Particularly if you're going to take investment money. You have to be able to show that you have substantial growth and can scale that company to the point where it can be a meaningful exit for those that have entrusted their money with you.
+
+
+00:15:51.780 — 00:16:13.980 · Speaker 2
+I love that good jump into value bombs for us today. Yeah. James, I really appreciate it. That was a majority of our questions. So we do appreciate you taking the time to chat with us and tell your story. I'm sure we could talk for a long time. My my wife is a nurse, and so she's in the background of like science and those things.
+
+And I think in another life I would have liked science. But we do more in marketing and advertising.
+
+
+00:16:14.020 — 00:16:15.340 · Speaker 1
+Now, where does your wife work?
+
+
+00:16:15.380 — 00:16:32.140 · Speaker 2
+She works at Um Chi right now. Yeah. The Chi, which is funny, that we're here. Yeah, yeah, in the cardiovascular unit. Um, she previously was in the E.R. to as well, in Tennessee. Um, so lots of experiences that are different jobs than mine.
+
+
+00:16:32.340 — 00:16:35.940 · Speaker 1
+Yeah. Well, you know, nursing is, uh, probably the.
+
