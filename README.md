@@ -31,6 +31,7 @@ XPM_TechNebraska_SourceofTruth/
 ├── .gitignore                             # Git hygiene (Tier 3 asset exclusions)
 │
 ├── docs/                                  # Strategic documentation & brand codex
+│   ├── decisions_feedback_ledger.md       # Source-linked feedback and decisions
 │   ├── brand_strategy.md                  # 7-phase XPM brand strategy & 3 guiding pillars
 │   ├── storybrand_framework.md            # Donald Miller SB7 framework & 3 hero archetypes
 │   ├── brand_voice_and_tone.md            # Tone spectrum, voice rules, anti-slop dictionary
@@ -80,6 +81,14 @@ To keep the repository fast, lightweight, and agent-accessible while preserving 
   - Multi-gigabyte RAW camera footage, unedited b-roll, massive layered PSDs and InDesign working files are excluded via `.gitignore` and cataloged in [`assets/manifest.json`](./assets/manifest.json) with cloud storage links.
 
 ---
+
+## Decisions and Feedback
+
+- [GitHub decisions and feedback ledger](./docs/decisions_feedback_ledger.md): source-linked record of client directions, requests, proposed plans and unresolved approvals.
+- [Working ledger in Tech Nebraska Drive](https://docs.google.com/spreadsheets/d/1YdboUSfZOzJtBsAxh-YCT2aozgnUb117/edit): editable operational ledger. GitHub is a snapshot, not an automatic sync.
+- [Gage content handoff](https://drive.google.com/drive/folders/18VDuHqKCrcE9NHag7O4E9BUo4SVFgxEH): creative files and planning documents.
+
+Before creating content, review the ledger and resolve conflicts with old strategy drafts. Emily's latest strategy edits have not yet been verified as incorporated into the GitHub six-month strategy.
 
 ## Agent Usage Quickstart
 
