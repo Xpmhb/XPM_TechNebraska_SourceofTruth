@@ -109,5 +109,12 @@ Agents generating proposals, social copy, SEO fixes, or client presentations MUS
 7. **Summit Content Engine Final Scope of Work (SOW):** [`docs/tech_nebraska_summit_content_engine_sow_final.md`](./docs/tech_nebraska_summit_content_engine_sow_final.md)  
    - Final client contract signed baseline (Sept 14, 2026 – Apr 30, 2027). Defines the 4 payment tranches (Sept $2,250, Oct $2,250, Nov–Apr $1,650/mo), the 2-person VIP mixer team, 3-person Summit crew, rapid 24–48h deliverables (Emily's thank-you video Oct 22, recap sizzle Oct 23/24), 5–8 amplification kits, and client-facing visual brief [`assets/interactive/tech_nebraska_executive_client_brief.html`](./assets/interactive/tech_nebraska_executive_client_brief.html).
 
+## 9. Decisions & Feedback Ledger
 
+Before preparing content, calendars, brand messaging or creative work, consult [the source-linked decision ledger](./docs/decisions_feedback_ledger.md), the [Drive working ledger](https://docs.google.com/spreadsheets/d/1YdboUSfZOzJtBsAxh-YCT2aozgnUb117/edit), and the brand/strategy references above.
 
+- Preserve new client decisions, edits, requests, approvals and disagreements as separate dated entries with an immutable `TN-###` ID, owner, status, source link and next action.
+- Do not treat open requests, preliminary recommendations or historical strategy drafts as client-approved decisions. The six-month strategy still requires reconciliation with Emily's revisions.
+- Record content implications for Gage, including storytelling emphasis, voice, attribution, policy review and caption/creative approvals.
+- When authorized to update the working Drive ledger, reconcile its IDs and status with the GitHub snapshot. The two records are not automatically synchronized.
+- Keep the repository's existing human approval rules intact. Client editorial approvals and internal operational permissions are separate.
